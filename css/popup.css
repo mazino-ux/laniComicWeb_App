@@ -1,0 +1,41 @@
+/* Custom Popup Styling */
+.custom-popup {
+    background: #fff;
+    border-radius: 15px;
+    border: 5px solid #ff8c42;
+    padding: 20px;
+    max-width: 400px;
+}
+
+.popup-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.want-button, .add-to-cart-button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.want-button {
+    background: #8b4513;
+    color: #fff;
+}
+
+.add-to-cart-button {
+    background: #ff8c42;
+    color: #fff;
+}
+
+.want-button:hover {
+    background: #6b3410;
+}
+
+.add-to-cart-button:hover {
+    background: #e67a35;
+}
