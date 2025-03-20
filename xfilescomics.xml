@@ -1,0 +1,508 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="comics.xsl"?>
+<collection
+    theme="X-Files Comics"
+    company="IDW"
+    currentPublisher="IDW">
+
+    <logos>
+        <height>20</height>
+        <logo id="IDW">
+            <img>IDW_logo.svg</img>
+        </logo>
+    </logos>
+
+    <series name="X-Files: Season 10" publisher="IDW">
+      <group>
+        <issue num="1" pic="xfiles/01-CVR A.jpg" cover="CVR A"/>
+        <issue num="1" pic="xfiles/01-CVR B.jpg" cover="CVR B"/>
+        <issue num="1" pic="xfiles/01-CVR C-2nd printing.jpg" cover="CVR C" printing="2"/>
+        <issue num="1" pic="xfiles/01-CVR D-3rd printing.jpg" cover="CVR D" printing="3"/>
+        <issue num="1" pic="xfiles/01-CVR E-4th printing.jpg" cover="CVR E" printing="4"/>
+        <issue num="1" pic="xfiles/01-CVR SUB.jpg" cover="CVR SUB"/>
+        <issue num="1" pic="xfiles/01-CVR RI.jpg" cover="CVR RI" need="1"/>
+        <issue num="1" pic="xfiles/01-CVR RE-Dynamic Forces.jpg" cover="CVR RE" exclusive="Dynamic Forces" price="25"/>
+        <issue num="1" pic="xfiles/01-CVR RE-Third Eye Comics.jpg" cover="CVR RE" exclusive="Third Eye Comics" price="20"/>
+        <issue num="1" pic="xfiles/01-RE CVR-Hastings.jpg" cover="CVR RE" exclusive="Hastings" price="5"/>
+        <issue num="1" pic="xfiles/01-CON EDITION.jpg" cover="CVR CON EDITION" price="" exclusive="San Diego Comic Con 2013" need="1"/>
+        <issue num="1" pic="xfiles/01-Director's Cut.jpg" cover="" desc="Director's Cut"/>
+      </group>
+      <group>
+        <issue num="2" pic="xfiles/02-CVR A.jpg" cover="CVR A"/>
+        <issue num="2" pic="xfiles/02-CVR B.jpg" cover="CVR B"/>
+        <issue num="2" pic="xfiles/02-CVR C-2nd printing.jpg" cover="CVR C" printing="2"/>
+        <issue num="2" pic="xfiles/02-CVR D-3rd printing.jpg" cover="CVR D" printing="3"/>
+        <issue num="2" pic="xfiles/02-CVR E-4th printing.jpg" cover="CVR E" printing="4" need="1"/>
+        <issue num="2" pic="xfiles/02-SUB.jpg" cover="SUB CVR"/>
+        <issue num="2" pic="xfiles/02-CVR RI.jpg" cover="CVR RI" need="1"/>
+      </group>
+      <group>
+        <issue num="3" pic="xfiles/03-CVR A.jpg" cover="CVR A"/>
+        <issue num="3" pic="xfiles/03-CVR B.jpg" cover="CVR B"/>
+        <issue num="3" pic="xfiles/03-CVR C-2nd printing.jpg" cover="CVR C" printing="2"/>
+        <issue num="3" pic="xfiles/03-SUB.jpg" cover="SUB CVR"/>
+        <issue num="3" pic="xfiles/03-CVR RI.jpg" cover="CVR RI" need="1"/>
+      </group>
+      <group>
+        <issue num="4" pic="xfiles/04-CVR A.jpg" cover="CVR A"/>
+        <issue num="4" pic="xfiles/04-CVR B.jpg" cover="CVR B"/>
+        <issue num="4" pic="xfiles/04-SUB.jpg" cover="SUB CVR"/>
+        <issue num="4" pic="xfiles/04-RI.jpg" cover="RI CVR"/>
+        <issue num="4" pic="xfiles/04-RE MCC-Montreal Comic Con.jpg" cover="RE CVR" need="1" exclusive="Montreal Comic Con 2013"/>
+      </group>
+      <group>
+        <issue num="5" pic="xfiles/05.jpg" cover=""/>
+        <issue num="5" pic="xfiles/05-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="5" pic="xfiles/05-CVR RI.jpg" cover="CVR RI"/>
+        <issue num="5" pic="xfiles/05-MONTREAL CON.jpg" cover="RE CVR" need="1" exclusive="Montreal Comic Con 2013"/>
+      </group>
+      <group>
+        <issue num="6" pic="xfiles/06.jpg" cover=""/>
+        <issue num="6" pic="xfiles/06-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="6" pic="xfiles/06-CVR RI.jpg" cover="CVR RI" need="1"/>
+      </group>
+      <group>
+        <issue num="7" pic="xfiles/07.jpg" cover=""/>
+        <issue num="7" pic="xfiles/07-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="7" pic="xfiles/07-CVR RI.jpg" cover="CVR RI" need="1"/>
+      </group>
+      <group>
+        <issue num="8" pic="xfiles/08.jpg" cover=""/>
+        <issue num="8" pic="xfiles/08-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="8" pic="xfiles/08-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group>
+        <issue num="9" pic="xfiles/09.jpg" cover=""/>
+        <issue num="9" pic="xfiles/09-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="9" pic="xfiles/09-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group>
+        <issue num="10" pic="xfiles/10.jpg" cover=""/>
+        <issue num="10" pic="xfiles/10-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="10" pic="xfiles/10-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group storyarc="Pilgrims">
+        <issue num="11" part="1" run="5" pic="xfiles/11.jpg" cover=""/>
+        <issue num="11" part="1" run="5" pic="xfiles/11-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="11" part="1" run="5" pic="xfiles/11-RI CVR.jpg" cover="RI CVR"/>
+        <issue num="11" part="1" run="5" pic="xfiles/11-RE CVR-Ottowa.jpg" cover="RE CVR" exclusive="Ottowa Comic Con 2014" need="1"/>
+      </group>
+      <group storyarc="Pilgrims">
+        <issue num="12" part="2" run="5" pic="xfiles/12.jpg" cover=""/>
+        <issue num="12" part="2" run="5" pic="xfiles/12-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="12" part="2" run="5" pic="xfiles/12-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group storyarc="Pilgrims">
+        <issue num="13" part="3" run="5" pic="xfiles/13.jpg" cover=""/>
+        <issue num="13" part="3" run="5" pic="xfiles/13-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="13" part="3" run="5" pic="xfiles/13-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group storyarc="Pilgrims">
+        <issue num="14" part="4" run="5" pic="xfiles/14.jpg" cover=""/>
+        <issue num="14" part="4" run="5" pic="xfiles/14-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="14" part="4" run="5" pic="xfiles/14-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group storyarc="Pilgrims">
+        <issue num="15" part="5" run="5" pic="xfiles/15.jpg" cover=""/>
+        <issue num="15" part="5" run="5" pic="xfiles/15-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="15" part="5" run="5" pic="xfiles/15-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+      <group storyarc="Immaculate">
+        <issue num="16" part="1" run="2" pic="xfiles/16.jpg" cover=""/>
+        <issue num="16" part="1" run="2" pic="xfiles/16-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="16" part="1" run="2" pic="xfiles/16-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group storyarc="Immaculate">
+        <issue num="17" part="2" run="2" pic="xfiles/17.jpg" cover=""/>
+        <issue num="17" part="2" run="2" pic="xfiles/17-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="17" part="2" run="2" pic="xfiles/17-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="18" pic="xfiles/18.jpg" cover=""/>
+        <issue num="18" pic="xfiles/18-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="18" pic="xfiles/18-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="19" pic="xfiles/19.jpg" cover=""/>
+        <issue num="19" pic="xfiles/19-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="19" pic="xfiles/19-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="20" pic="xfiles/20.jpg" cover=""/>
+        <issue num="20" pic="xfiles/20-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="20" pic="xfiles/20-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="21" pic="xfiles/21.jpg" cover=""/>
+        <issue num="21" pic="xfiles/21-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="21" pic="xfiles/21-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="22" pic="xfiles/22.jpg" cover=""/>
+        <issue num="22" pic="xfiles/22-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="22" pic="xfiles/22-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="23" pic="xfiles/23.jpg" cover=""/>
+        <issue num="23" pic="xfiles/23-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="23" pic="xfiles/23-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="24" pic="xfiles/24.jpg" cover=""/>
+        <issue num="24" pic="xfiles/24-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="24" pic="xfiles/24-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="25" pic="xfiles/25.jpg" cover=""/>
+        <issue num="25" pic="xfiles/25-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="25" pic="xfiles/25-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+        <issue num="Season 10" pic="xfiles/Season 10 Complete v1.jpg" cover="Complete"/>
+        <issue num="Season 10" pic="xfiles/Season 10 Complete v2.jpg" cover="Complete"/>
+      <group title="Annual 2014">
+        <issue pic="xfiles/Annual 2014.jpg" cover=""/>
+        <issue pic="xfiles/Annual 2014-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Season 11" publisher="IDW">
+      <group>
+        <issue num="1" pic="xfiles/season11/01.jpg" cover=""/>
+        <issue num="1" pic="xfiles/season11/01-CVR SUB.jpg" cover="SUB CVR"/>
+        <issue num="1" pic="xfiles/season11/01-CVR SUB-photo.jpg" cover="SUB CVR photo"/>
+        <issue num="1" pic="xfiles/season11/01-CVR RI.jpg" cover="RI CVR"/>
+      </group>
+      <group>
+        <issue num="2" pic="xfiles/season11/02.jpg" cover=""/>
+        <issue num="2" pic="xfiles/season11/02-CVR SUB.jpg" cover="SUB CVR"/>
+        <issue num="2" pic="xfiles/season11/02-CVR SUB-photo.jpg" cover="SUB CVR photo"/>
+      </group>
+      <group>
+        <issue num="3" pic="xfiles/season11/03.jpg" cover=""/>
+        <issue num="3" pic="xfiles/season11/03-CVR SUB.jpg" cover="SUB CVR"/>
+        <issue num="3" pic="xfiles/season11/03-CVR SUB-blank.jpg" cover="SUB CVR blank"/>
+        <issue num="3" pic="xfiles/season11/03-CVR RI.jpg" cover="RI CVR" price="10"/>
+      </group>
+      <group>
+        <issue num="4" pic="xfiles/season11/04.jpg" cover=""/>
+        <issue num="4" pic="xfiles/season11/04-CVR SUB.jpg" cover="SUB CVR"/>
+        <issue num="4" pic="xfiles/season11/04-CVR SUB-photo.jpg" cover="SUB CVR photo"/>
+      </group>
+      <group>
+        <issue num="5" pic="xfiles/season11/05.jpg" cover=""/>
+        <issue num="5" pic="xfiles/season11/05-CVR SUB.jpg" cover="SUB CVR"/>
+        <issue num="5" pic="xfiles/season11/05-CVR SUB-Archie.jpg" cover="SUB CVR Archie"/>
+      </group>
+      <group>
+        <issue num="6" pic="xfiles/season11/06.jpg" cover=""/>
+        <issue num="6" pic="xfiles/season11/06-CVR SUB-A.jpg" cover="SUB-A CVR"/>
+        <issue num="6" pic="xfiles/season11/06-CVR SUB-B.jpg" cover="SUB-B CVR"/>
+      </group>
+      <group>
+        <issue num="7" pic="xfiles/season11/07.jpg" cover=""/>
+        <issue num="7" pic="xfiles/season11/07-CVR SUB.jpg" cover="SUB CVR"/>
+        <issue num="7" pic="xfiles/season11/07-CVR SUB-Valentine.jpg" cover="SUB CVR Valentine's"/>
+      </group>
+      <group>
+        <issue num="8" pic="xfiles/season11/08.jpg" cover="" />
+        <issue num="8" pic="xfiles/season11/08-CVR SUB-A.jpg" cover="SUB-A CVR"/>
+        <issue num="8" pic="xfiles/season11/08-CVR SUB-B.jpg" cover="SUB-B CVR"/>
+      </group>
+      <group title="Annual 2015">
+        <issue pic="xfiles/Annual 2015.jpg" cover=""/>
+        <issue pic="xfiles/Annual 2015-SUB CVR.jpg" cover="CVR SUB"/>
+      </group>
+    </series>
+
+    <series name="X-Files: 2016" publisher="IDW">
+      <group>
+        <issue num="1" pic="xfiles/2016/XFiles 01.jpg" cover=""/>
+        <issue num="1" pic="xfiles/2016/XFiles 01 - SUB.jpg" cover="SUB CVR"/>
+        <issue num="1" pic="xfiles/2016/XFiles 01 - RI.jpg" cover="RI CVR" price="15"/>
+        <issue num="1" pic="xfiles/2016/XFiles 01 - Art Appreciation.jpg" cover="Art Appreciation"/>
+      </group>
+      <group>
+        <issue num="2" pic="xfiles/2016/XFiles 02.jpg" cover=""/>
+        <issue num="2" pic="xfiles/2016/XFiles 02 - SUB.jpg" cover="SUB CVR"/>
+        <issue num="2" pic="xfiles/2016/XFiles 02 - RI.jpg" cover="RI CVR" price="15"/>
+      </group>
+      <group>
+        <issue num="3" pic="xfiles/2016/XFiles 03.jpg" cover=""/>
+        <issue num="3" pic="xfiles/2016/XFiles 03 - SUB.jpg" cover="SUB CVR"/>
+        <issue num="3" pic="xfiles/2016/XFiles 03 - RI.jpg" cover="RI CVR" price="15"/>
+      </group>
+      <group>
+        <issue num="4" pic="xfiles/2016/XFiles 04.jpg" cover=""/>
+        <issue num="4" pic="xfiles/2016/XFiles 04 - SUB.jpg" cover="SUB CVR"/>
+        <issue num="4" pic="xfiles/2016/XFiles 04 - RI.jpg" cover="RI CVR" price="15"/>
+      </group>
+      <group>
+        <issue num="5" pic="xfiles/2016/XFiles 05.jpg" cover=""/>
+        <issue num="5" pic="xfiles/2016/XFiles 05 - SUB.jpg" cover="SUB CVR"/>
+        <issue num="5" pic="xfiles/2016/XFiles 05 - RI.jpg" cover="RI CVR" price="15"/>
+      </group>
+      <group>
+        <issue num="6" pic="xfiles/2016/XFiles 06.jpg" cover=""/>
+        <issue num="6" pic="xfiles/2016/XFiles 06 - SUB.jpg" cover="SUB CVR"/>
+        <issue num="6" pic="xfiles/2016/XFiles 06 - RI.jpg" cover="RI CVR" price="10"/>
+      </group>
+      <group>
+        <issue num="7" pic="xfiles/2016/XFiles 07.jpg" cover=""/>
+        <issue num="7" pic="xfiles/2016/XFiles 07 - SUB.jpg" cover="SUB CVR"/>
+<!--        <issue num="7" nopic="Y" pic="xfiles/2016/XFiles 07 - RI.jpg" cover="RI CVR" price="15" need="1"/> -->
+      </group>
+      <group>
+        <issue num="8" pic="xfiles/2016/XFiles 08.jpg" cover=""/>
+        <issue num="8" pic="xfiles/2016/XFiles 08 - SUB.jpg" cover="SUB CVR"/>
+<!--        <issue num="8" nopic="Y" pic="xfiles/2016/XFiles 08 - RI.jpg" cover="RI CVR" price="15" need="1"/> -->
+      </group>
+      <group>
+        <issue num="9" pic="xfiles/2016/XFiles 09.jpg" cover=""/>
+        <issue num="9" pic="xfiles/2016/XFiles 09 - SUB.jpg" cover="SUB CVR"/>
+<!--        <issue num="9" nopic="Y" pic="xfiles/2016/XFiles 09 - RI.jpg" cover="RI CVR" price="15" need="1"/> -->
+      </group>
+      <group>
+        <issue num="10" pic="xfiles/2016/XFiles 10.jpg" cover=""/>
+        <issue num="10" pic="xfiles/2016/XFiles 10 - SUB.jpg" cover="SUB CVR"/>
+<!--        <issue num="10" nopic="Y" pic="xfiles/2016/XFiles 10 - RI.jpg" cover="RI CVR" need="1"/> -->
+        <issue num="10" pic="xfiles/2016/XFiles 10 - artist.jpg" cover="Artist Ed" price=""/>
+      </group>
+      <group>
+        <issue num="11" pic="xfiles/2016/XFiles 11.jpg" cover=""/>
+        <issue num="11" pic="xfiles/2016/XFiles 11 - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="12" pic="xfiles/2016/XFiles 12.jpg" cover=""/>
+        <issue num="12" pic="xfiles/2016/XFiles 12 - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="13" pic="xfiles/2016/XFiles 13.jpg" cover=""/>
+        <issue num="13" pic="xfiles/2016/XFiles 13 - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="14" pic="xfiles/2016/XFiles 14.jpg" cover=""/>
+        <issue num="14" pic="xfiles/2016/XFiles 14 - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="15" pic="xfiles/2016/XFiles 15.jpg" cover=""/>
+        <issue num="15" pic="xfiles/2016/XFiles 15 - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="16" pic="xfiles/2016/XFiles 16A.jpg" cover="A"/>
+        <issue num="16" pic="xfiles/2016/XFiles 16B.jpg" cover="B"/>
+      </group>
+      <group>
+        <issue num="17" pic="xfiles/2016/XFiles 17A.jpg" cover="A"/>
+        <issue num="17" pic="xfiles/2016/XFiles 17B.jpg" cover="B"/>
+      </group>
+      <group title="Annual 2016">
+        <issue pic="xfiles/Annual 2016.jpg" cover=""/>
+        <issue pic="xfiles/Annual 2016-SUB CVR.jpg" cover="CVR SUB"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Origins" publisher="IDW">
+      <group>
+        <issue num="1" pic="xfiles/Origins/Origins 01 Mulder.jpg" cover=""/>
+        <issue num="1" pic="xfiles/Origins/Origins 01 Scully.jpg" cover=""/>
+        <issue num="1" pic="xfiles/Origins/Origins 01 Mulder - SUB.jpg" cover="SUB CVR"/>
+        <issue num="1" pic="xfiles/Origins/Origins 01 Scully - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="2" pic="xfiles/Origins/Origins 02 Mulder.jpg" cover=""/>
+        <issue num="2" pic="xfiles/Origins/Origins 02 Scully.jpg" cover=""/>
+        <issue num="2" pic="xfiles/Origins/Origins 02 Mulder - SUB.jpg" cover="SUB CVR"/>
+        <issue num="2" pic="xfiles/Origins/Origins 02 Scully - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="3" pic="xfiles/Origins/Origins 03 Mulder.jpg" cover=""/>
+        <issue num="3" pic="xfiles/Origins/Origins 03 Scully.jpg" cover=""/>
+        <issue num="3" pic="xfiles/Origins/Origins 03 Mulder - SUB.jpg" cover="SUB CVR"/>
+        <issue num="3" pic="xfiles/Origins/Origins 03 Scully - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="4" pic="xfiles/Origins/Origins 04 Mulder.jpg" cover=""/>
+        <issue num="4" pic="xfiles/Origins/Origins 04 Scully.jpg" cover=""/>
+        <issue num="4" pic="xfiles/Origins/Origins 04 Mulder - SUB.jpg" cover="SUB CVR"/>
+        <issue num="4" pic="xfiles/Origins/Origins 04 Scully - SUB.jpg" cover="SUB CVR"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Origins - Dog Days of Summer" publisher="IDW">
+      <group>
+        <issue num="1" pic="xfiles/Origins/Dog Days of Summer/Origins 01 Mulder.jpg" cover=""/>
+        <issue num="1" pic="xfiles/Origins/Dog Days of Summer/Origins 01 Scully.jpg" cover=""/>
+        <issue num="1" pic="xfiles/Origins/Dog Days of Summer/Origins 01 Mulder - SUB.jpg" cover="SUB CVR"/>
+        <issue num="1" pic="xfiles/Origins/Dog Days of Summer/Origins 01 Scully - SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="2" pic="xfiles/Origins/Dog Days of Summer/Origins 02A Mulder.jpg" cover=""/>
+        <issue num="2" pic="xfiles/Origins/Dog Days of Summer/Origins 02A Scully.jpg" cover=""/>
+        <issue num="2" pic="xfiles/Origins/Dog Days of Summer/Origins 02B Mulder.jpg" cover="B"/>
+        <issue num="2" pic="xfiles/Origins/Dog Days of Summer/Origins 02B Scully.jpg" cover="B"/>
+      </group>
+      <group>
+        <issue num="3" pic="xfiles/Origins/Dog Days of Summer/Origins 03A Mulder.jpg" cover="A"/>
+        <issue num="3" pic="xfiles/Origins/Dog Days of Summer/Origins 03A Scully.jpg" cover="A"/>
+        <issue num="3" pic="xfiles/Origins/Dog Days of Summer/Origins 03B Mulder.jpg" cover="B"/>
+        <issue num="3" pic="xfiles/Origins/Dog Days of Summer/Origins 03B Scully.jpg" cover="B"/>
+      </group>
+      <group>
+        <issue num="4" pic="xfiles/Origins/Dog Days of Summer/Origins 04A Mulder.jpg" cover="A"/>
+        <issue num="4" pic="xfiles/Origins/Dog Days of Summer/Origins 04A Scully.jpg" cover="A"/>
+        <issue num="4" pic="xfiles/Origins/Dog Days of Summer/Origins 04B Mulder.jpg" cover="B"/>
+        <issue num="4" pic="xfiles/Origins/Dog Days of Summer/Origins 04B Scully.jpg" cover="B"/>
+      </group>
+    </series>
+
+    <series name="X-Files: JFK Disclosure" publisher="IDW">
+      <group>
+        <issue num="1" pic="xfiles/JFK Disclosure/JFK 01A.jpg" cover="A"/>
+        <issue num="1" pic="xfiles/JFK Disclosure/JFK 01B.jpg" cover="B"/>
+      </group>
+      <group>
+        <issue num="2" pic="xfiles/JFK Disclosure/JFK 02A.jpg" cover="A"/>
+        <issue num="2" pic="xfiles/JFK Disclosure/JFK 02B.jpg" cover="B"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Case Files" publisher="IDW">
+      <group pubdate="April 25, 2018">
+        <issue num="1" pic="xfiles/Case Files/Case Files 1A.jpg" cover="A"/>
+        <issue num="1" pic="xfiles/Case Files/Case Files 1B.jpg" cover="B"/>
+<!--        <issue num="1" nopic="Y" pic="xfiles/Case Files/Case Files 1RI.jpg" cover="RI" need="1"/>-->
+      </group>
+      <group pubdate="May 16, 2018">
+        <issue num="2" pic="xfiles/Case Files/Case Files 2A.jpg" cover="A"/>
+        <issue num="2" pic="xfiles/Case Files/Case Files 2B.jpg" cover="B"/>
+      </group>
+      <group pubdate="July 18, 2018">
+        <issue num="1" pic="xfiles/Case Files/Case Files HGT 1A.jpg" cover="A"/>
+        <issue num="1" pic="xfiles/Case Files/Case Files HGT 1B.jpg" cover="B"/>
+        <issue num="1" pic="xfiles/Case Files/Case Files HGT 1RI.jpg" cover="RI" need="1" incoming="Y"/>
+        <issue num="1" pic="xfiles/Case Files/Case Files HGT 1MCC - Montreal Comic Con.jpg" cover="" exclusive="Montreal Comic Con" need="1"/>
+      </group>
+      <group pubdate="August 22, 2018">
+        <issue num="2" pic="xfiles/Case Files/Case Files HGT 2A.jpg" cover="A"/>
+        <issue num="2" pic="xfiles/Case Files/Case Files HGT 2B.jpg" cover="B"/>
+        <issue num="2" pic="xfiles/Case Files/Case Files HGT 2RI.jpg" cover="RI"/>
+      </group>
+    </series>
+
+    <series name="X-Files: One Shot" publisher="IDW">
+      <group title="Deviations 2016">
+        <issue num="" pic="xfiles/Deviations 2016.jpg" cover=""/>
+        <issue num="" pic="xfiles/Deviations 2016-SUB CVR.jpg" cover="SUB CVR"/>
+      </group>
+      <group title="Deviations 2017">
+        <issue num="" pic="xfiles/Deviations 2017.jpg" cover=""/>
+        <issue num="" pic="xfiles/Deviations 2017-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="" pic="xfiles/Deviations 2017-RI CVR.jpg" cover="RI CVR"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Trade Paper Back" publisher="IDW">
+        <issue num="Season 10" pic="xfiles/Season 10 v1.jpg" cover="Vol 1" need="1"/>
+        <issue num="Season 10" pic="xfiles/Season 10 v2.jpg" cover="Vol 2" need="1"/>
+        <issue num="Season 10" pic="xfiles/Season 10 v3.jpg" cover="Vol 3" need="1"/>
+        <issue num="Season 10" pic="xfiles/Season 10 v4.jpg" cover="Vol 4" need="1"/>
+        <issue num="Season 10" pic="xfiles/Season 10 v5.jpg" cover="Vol 5" need="1"/>
+    </series>
+
+    <series name="X-Files: Year Zero" publisher="IDW">
+      <group>
+        <issue num="1" part="1" run="5" pic="xfiles/YearZero/YearZero 01.jpg" cover=""/>
+        <issue num="1" part="1" run="5" pic="xfiles/YearZero/YearZero 01-SUB CVR-sticker.jpg" altpic="xfiles/YearZero/YearZero 01-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="1" part="1" run="5" pic="xfiles/YearZero/YearZero 01-RI CVR.jpg" cover="CVR RI"/>
+      </group>
+      <group>
+        <issue num="2" part="2" run="5" pic="xfiles/YearZero/YearZero 02.jpg" cover=""/>
+        <issue num="2" part="2" run="5" pic="xfiles/YearZero/YearZero 02-SUB CVR-sticker.jpg" altpic="xfiles/YearZero/YearZero 02-SUB CVR.jpg" cover="SUB CVR"/>
+      </group>
+      <group>
+        <issue num="3" part="3" run="5" pic="xfiles/YearZero/YearZero 03.jpg" cover=""/>
+        <issue num="3" part="3" run="5" pic="xfiles/YearZero/YearZero 03-SUB CVR-sticker.jpg" cover="SUB CVR"/>
+<!--        <issue num="3" part="3" run="5" pic="xfiles/YearZero/YearZero 03-RI CVR.jpg" cover="CVR RI" need="1"/>-->
+      </group>
+      <group>
+        <issue num="4" part="4" run="5" pic="xfiles/YearZero/YearZero 04.jpg" cover=""/>
+        <issue num="4" part="4" run="5" pic="xfiles/YearZero/YearZero 04-SUB CVR-sticker.jpg" cover="SUB CVR"/>
+<!--        <issue num="4" part="4" run="5" pic="xfiles/YearZero/YearZero 04-RI CVR.jpg" cover="CVR RI" need="1"/>-->
+      </group>
+      <group>
+        <issue num="5" part="5" run="5" pic="xfiles/YearZero/YearZero 05-art.jpg" cover=""/>
+        <issue num="5" part="5" run="5" pic="xfiles/YearZero/YearZero 05-SUB CVR-sticker.jpg" cover="SUB CVR"/>
+<!--        <issue num="5" part="5" run="5" pic="xfiles/YearZero/YearZero 05-RI CVR.jpg" cover="CVR RI" need="1"/>-->
+      </group>
+        <issue num="TPB" pic="xfiles/YearZero/Year Zero TPB.jpg" desc="TPB: issues 1-5" price="20" pubdate="February, 2015"/>
+    </series>
+
+    <series name="X-Files: Conspiracy" publisher="IDW">
+      <group>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01.jpg" cover=""/>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01-RI CVR.jpg" cover="CVR RI" need="1"/>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01-CVR RE-Hastings.jpg" cover="CVR RE" price="5" exclusive="Hastings"/>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01-SUB CVR A.jpg" cover="SUB CVR A" desc="Ghostbusters"/>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01-SUB CVR B.jpg" cover="SUB CVR B" desc="TMNT"/>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01-SUB CVR C.jpg" cover="SUB CVR C" desc="Transformers"/>
+        <issue num="1" part="1" run="6" pic="xfiles/Conspiracy/Conspiracy 01-SUB CVR D.jpg" cover="SUB CVR D" desc="The Crow"/>
+      </group>
+      <group>
+        <issue num="1" part="2" run="6" pic="xfiles/Conspiracy/Conspiracy-GB 01.jpg" cover="" desc="Ghostbusters"/>
+        <issue num="1" part="2" run="6" pic="xfiles/Conspiracy/Conspiracy-GB 01-SUB CVR.jpg" cover="SUB CVR" desc="Ghostbusters"/>
+        <issue num="1" part="2" run="6" pic="xfiles/Conspiracy/Conspiracy-GB 01-RI CVR.jpg" cover="CVR RI" desc="Ghostbusters" need="1"/>
+      </group>
+      <group>
+        <issue num="1" part="3" run="6" pic="xfiles/Conspiracy/Conspiracy-TMNT 01.jpg" cover="" desc="TMNT"/>
+        <issue num="1" part="3" run="6" pic="xfiles/Conspiracy/Conspiracy-TMNT 01-SUB CVR.jpg" cover="SUB CVR" desc="TMNT"/>
+        <issue num="1" part="3" run="6" pic="xfiles/Conspiracy/Conspiracy-TMNT 01-RI CVR.jpg" cover="CVR RI" desc="TMNT" need="1"/>
+      </group>
+      <group>
+        <issue num="1" part="4" run="6" pic="xfiles/Conspiracy/Conspiracy-Transformers 01.jpg" cover="" desc="Transformers"/>
+        <issue num="1" part="4" run="6" pic="xfiles/Conspiracy/Conspiracy-Transformers 01-SUB CVR.jpg" cover="SUB CVR" desc="Transformers"/>
+        <issue num="1" part="4" run="6" pic="xfiles/Conspiracy/Conspiracy-Transformers 01-RI CVR.jpg" cover="CVR RI" desc="Transformers" need="1"/>
+      </group>
+      <group>
+        <issue num="1" part="5" run="6" pic="xfiles/Conspiracy/Conspiracy-Crow 01.jpg" cover="" desc="The Crow"/>
+        <issue num="1" part="5" run="6" pic="xfiles/Conspiracy/Conspiracy-Crow 01-SUB CVR.jpg" cover="SUB CVR" desc="The Crow"/>
+        <issue num="1" part="5" run="6" pic="xfiles/Conspiracy/Conspiracy-Crow 01-RI CVR.jpg" cover="CVR RI" desc="The Crow" need="1"/>
+      </group>
+      <group>
+        <issue num="2" part="6" run="6" pic="xfiles/Conspiracy/Conspiracy 02.jpg" cover=""/>
+        <issue num="2" part="6" run="6" pic="xfiles/Conspiracy/Conspiracy 02-SUB CVR.jpg" cover="SUB CVR"/>
+        <issue num="2" part="6" run="6" pic="xfiles/Conspiracy/Conspiracy 02-RI CVR.jpg" cover="CVR RI" need="1"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Christmas Specials" publisher="IDW">
+      <group subtitle="2014">
+        <issue num="X-mas Special" pic="xfiles/Xmas 2014.jpg" cover=""/>
+        <!--<issue num="1" pic="xfiles/01-SUB CVR.jpg" cover="SUB CVR" need="1"/>-->
+        <issue num="X-mas Special" pic="xfiles/Xmas 2014-AE CVR.jpg" cover="AE" desc="Artist's Edition"/>
+      </group>
+      <group subtitle="2015">
+        <issue num="X-mas Special" pic="xfiles/season11/Xmas 2015.jpg" cover=""/>
+        <issue num="X-mas Special" pic="xfiles/season11/Xmas 2015-CVR SUB.jpg" cover="SUB CVR"/>
+      </group>
+      <group subtitle="2016">
+        <issue num="X-mas Special" pic="xfiles/2016/Xmas 2016.jpg" cover=""/>
+        <issue num="X-mas Special" pic="xfiles/2016/Xmas 2016-CVR SUB.jpg" cover="SUB CVR"/>
+      </group>
+    </series>
+
+    <series name="X-Files: Classics" publisher="IDW">
+      <group>
+        <issue num="Classics" pic="xfiles/XFiles_Classics01.jpg" cover="Vol 1" need="1"/>
+        <issue num="Classics" pic="xfiles/XFiles_Classics01-Hundred Penny Press.jpg" cover="Vol 1" exclusive="Hundred Penny Press" need="1"/>
+        <issue num="Classics" pic="xfiles/XFiles_Classics02.jpg" cover="Vol 2" need="1"/>
+        <issue num="Classics" pic="xfiles/XFiles_Classics03.jpg" cover="Vol 3" need="1"/>
+        <issue num="Classics" pic="xfiles/XFiles_Classics04.jpg" cover="Vol 4" need="1"/>
+      </group>
+      <group storyarc="Season 1">
+        <issue num="Season 1" pic="xfiles/XFiles_Classics Season 1 v1.jpg" cover="Vol 1" need="1"/>
+        <issue num="Season 1" pic="xfiles/XFiles_Classics Season 1 v2.jpg" cover="Vol 2" need="1"/>
+      </group>
+        <issue num="Ground Zero" pic="xfiles/XFiles_Classics Ground Zero.jpg" cover="" need="1"/>
+    </series>
+
+</collection>

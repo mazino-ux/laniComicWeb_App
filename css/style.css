@@ -1,0 +1,297 @@
+ /* General Styles */
+body {
+    background: linear-gradient(135deg, #ff8c42, #8b4513);
+    color: #fff;
+    font-family: 'Luckiest Guy', cursive;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+header {
+    background: #8b4513;
+    padding: 40px 20px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.header-content {
+    animation: float 3s ease-in-out infinite;
+}
+
+.animated-title {
+    font-size: 4rem;
+    margin: 0;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+    animation: bounce 2s infinite;
+}
+
+.tagline {
+    font-size: 1.5rem;
+    margin: 10px 0 0;
+    opacity: 0.8;
+}
+
+/* Keyframe Animations */
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+/* Comics Section */
+.comic-card a{
+    display: flex; justify-content: center; align-items: center;
+    width: 100%; height: 100%;
+}
+.stuff-card a{
+    display: flex; justify-content: center; align-items: center;
+    width: 100%; height: 100%;
+}
+
+.comics-section, .other-stuff, .bible-section, .games-section {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+}
+.comic-card{
+    height: 15vh;
+}
+
+.comics-grid, .stuff-grid, .games-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 20px;
+    /* padding: 50px; */
+    margin: 20px 50px;
+    justify-items: center;
+}
+
+.comic-card, .stuff-card, .game-card {
+    background: #fff;
+    border: 5px solid #83390b;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    width: 100%;
+    max-width: 200px; /* Fixed width for cards */
+}
+
+.comic-card:hover, .stuff-card:hover, .game-card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.image-container {
+    width: 100%;
+   
+    padding-top: 100%; /* 1:1 Aspect Ratio */
+    position: relative;
+    overflow: hidden;
+}
+
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60%;
+    object-fit: cover; /* Ensures images fill the container */
+}
+/* .doctor-who {
+    height: 20vh;
+} */
+
+.comic-overlay, .stuff-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(139, 69, 19, 0.8);
+    color: #fff;
+    padding: 10px;
+    font-size: 1.2rem;
+    text-align: center;
+    transform: translateY(100%);
+    transition: transform 0.3s ease;
+}
+
+.comic-card:hover .comic-overlay, .stuff-card:hover .stuff-overlay {
+    transform: translateY(0);
+}
+
+/* Games Section */
+.game-card {
+    background: #ff8c42;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 15px;
+    transition: background 0.3s ease;
+    width: 100%;
+    max-width: 200px; /* Fixed width for game cards */
+}
+
+.game-card:hover {
+    background: #8b4513;
+}
+
+.action-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #8b4513;
+    padding: 10px;
+    height: 20%; /* Links take up 20% of the card */
+}
+
+.view-link, .want-link {
+    flex: 1;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: .85rem;
+    padding: 8px 12px;
+    border-radius: 5px;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.view-link {
+    background: #8b4513;
+    border-right: 1px solid #fff;
+    margin-right: 5px; 
+}
+
+.want-link {
+/* background: #ff8c42; */
+margin-left: 5px; 
+}
+
+.view-link:hover, .want-link:hover {
+background: rgba(255, 255, 255, 0.1);
+transform: translateY(-2px);
+}
+/* Bible Section */
+.bible-link {
+    background: #ff8c42;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: background 0.3s ease;
+}
+
+.bible-link:hover {
+    background: #8b4513;
+}
+
+/* Footer */
+footer {
+    background: #8b4513;
+    padding: 20px;
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 40px;
+}
+/* Responsive Design */
+@media (max-width: 768px) {
+    header {
+        padding: 20px 10px;
+    }
+
+    .animated-title {
+        font-size: 2.8rem;
+    }
+
+    .tagline {
+        font-size: 1.1rem;
+    }
+
+    h2 {
+        font-size: 1.8rem;
+        margin-bottom: 20px;
+    }
+
+    .comics-section, .other-stuff, .bible-section, .games-section {
+        padding: 20px 10px;
+    }
+
+    .comics-grid, .stuff-grid, .games-grid {
+        grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+        margin: 10px 0px;
+        gap: 15px;
+    }
+
+    .comic-card, .stuff-card, .game-card {
+        max-width: 140px;
+    }
+
+    .comic-overlay, .stuff-overlay {
+        font-size: 1rem;
+        padding: 8px;
+    }
+}
+
+@media (max-width: 480px) {
+    header {
+        padding: 15px 5px;
+    }
+
+    .animated-title {
+        font-size: 2.2rem;
+    }
+
+    .tagline {
+        font-size: 0.9rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+    }
+
+    .comics-section, .other-stuff, .bible-section, .games-section {
+        padding: 15px 5px;
+    }
+
+    .comics-grid, .stuff-grid, .games-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+        gap: 10px;
+    }
+
+    .comic-card, .stuff-card, .game-card {
+        max-width: 110px;
+        border-width: 3px;
+    }
+
+    .game-card {
+        padding: 10px;
+        font-size: 1.2rem;
+    }
+
+    .comic-overlay, .stuff-overlay {
+        font-size: 0.9rem;
+        padding: 5px;
+    }
+}

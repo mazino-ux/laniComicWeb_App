@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="comics.xsl"?>
+<collection
+  theme="Doctor Who"
+  company="Titan"
+  currentPublisher="Titan">
+
+    <logos>
+        <height>20</height>
+        <logo id="Titan">
+            <img>Doctor_Who_2018_logo.svg</img>
+        </logo>
+    </logos>
+
+    <series name="13th Doctor" publisher="Titan" issue1="Novermber 2018" status="current">
+      <group pubdate="September 26, 2018">
+        <issue num="0" cover="A" pic="drwho/13/Doctor Who 0 - Ianniciello.jpg" coverartist="Claudia SG Ianniciello"/>
+        <issue num="0" cover="B" pic="drwho/13/Doctor Who 0 - photo.jpg" coverartist="Will Brooks" need="1"/>
+        <issue num="0" pic="drwho/13/Doctor Who 0 - Florean.jpg" coverartist="Arianna Florean" coverartist2="Giorgia Sposito" exclusive="New York Comic Con" pubdate="January 30, 2019" need="1"/>
+      </group>
+      <group pubdate="November 7, 2018">
+        <issue num="1" cover="A" pic="drwho/13/Doctor Who 01 - Tarr.jpg" coverartist="Babs Tarr"/>
+        <issue num="1" cover="A" pic="drwho/13/Doctor Who 01 - Tarr - 2nd print.jpg" coverartist="Babs Tarr" printing="2" need="1"/>
+        <issue num="1" cover="A" pic="drwho/13/Doctor Who 01 - Tarr - 3rd print.jpg" coverartist="Babs Tarr" printing="3" need="1"/>
+        <issue num="1" cover="B photo" pic="drwho/13/Doctor Who 01 - photo.jpg" need="1"/>
+        <issue num="1" cover="C" pic="drwho/13/Doctor Who 01 - Zhang.jpg" coverartist="Alice X. Zhang" need="1"/>
+        <issue num="1" cover="D" pic="drwho/13/Doctor Who 01 - Stott.jpg" coverartist="Rachael Stott" need="1"/>
+        <issue num="1" cover="E" pic="drwho/13/Doctor Who 01 - Anwar.jpg" coverartist="Sanya Anwar" need="1"/>
+        <issue num="1" cover="F" pic="drwho/13/Doctor Who 01 - Ganucheau.jpg" coverartist="Paulina Ganucheau" need="1"/>
+        <issue num="1" cover="G" pic="drwho/13/Doctor Who 01 - Graley.jpg" coverartist="Sarah Graley" need="1"/>
+        <issue num="1" cover="H" pic="drwho/13/Doctor Who 01 - Kristantina &amp; Kholinne.jpg" coverartist="Ariela Kristantina" coverartist2="Jessica Kholinne" need="1"/>
+        <issue num="1" cover="I" pic="drwho/13/Doctor Who 01 - Cook.jpg" coverartist="Katie Cook" need="1"/>
+        <issue num="1" cover="J puppet" pic="drwho/13/Doctor Who 01 - puppet.jpg" need="1"/>
+        <issue num="1" cover="K cosplay" pic="drwho/13/Doctor Who 01 - cosplay.jpg" cosplay="Athena Stamos" need="1"/>
+        <issue num="1" cover="L B&amp;W" pic="drwho/13/Doctor Who 01 - Tarr - bw.jpg" coverartist="Babs Tarr" need="1"/>
+        <issue num="1" cover="M sketch" pic="drwho/13/Doctor Who 01 - blank.jpg" coverartist="" need="1"/>
+        <issue num="1" cover="Gallifreyan High Council" pic="drwho/13/Doctor Who 01 - Tarr - Gallifreyan High Council.jpg" coverartist="Babs Tarr" need="1"/>
+        <issue num="1" pic="drwho/13/Doctor Who 01 - Anacleto - Unknown Comic Books.jpg" coverartist="Jay Anacleto" exclusive="Unknown Comic Books" limited="500" need="1"/>
+        <issue num="1" cover="virgin" pic="drwho/13/Doctor Who 01 - Anacleto - Unknown Comic Books - virgin.jpg" coverartist="Jay Anacleto" exclusive="Unknown Comic Books" limited="500" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Brooks - Local Comic Shop Day.jpg" coverartist="Will Brooks" exclusive="Local Comic Shop Day" limited="1000" pubdate="November 17, 2018" need="1"/>
+
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Jones - Doctor Who Comics Day.jpg" coverartist="Christopher Jones" exclusive="Doctor Who Comics Day" limited="" pubdate="November 24, 2018" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Hallion - Newbury Comics.jpg" coverartist="Karen Hallion" exclusive="Newbury Comics" limited="" price="6"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Brine - Strange Adventures Comix.jpg" coverartist="Danica Brine" exclusive="Strange Adventures Comix" limited="" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Leung - Heroes Initiative.jpg" coverartist="Andrew Leung" exclusive="Heroes Initiative" limited="" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Stott - BBC Store.jpg" coverartist="Rachael Stott" exclusive="BBC Store" limited="" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Connell - Borderlands Comics.jpg" coverartist="Bridgit Connell" exclusive="Borderlands Comics" limited="" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - Show Masters.jpg" coverartist="" exclusive="Show Masters" limited="" need="1"/>
+        <issue num="1" cover="" pic="drwho/13/Doctor Who 01 - photo - Alien Entertainment.jpg" coverartist="" exclusive="Alien Entertainment" limited="" need="1"/>
+      </group>
+      <group pubdate="November 21, 2018">
+        <issue num="2" cover="A" pic="drwho/13/Doctor Who 02 - Ganucheau.jpg" coverartist="Paulina Ganucheau" need="1"/>
+        <issue num="2" cover="A" pic="drwho/13/Doctor Who 02 - Ganucheau - 2nd print.jpg" coverartist="Paulina Ganucheau" printing="2" need="1"/>
+        <issue num="2" cover="B" pic="drwho/13/Doctor Who 02 - Brooks.jpg" coverartist="Will Brooks" need="1"/>
+        <issue num="2" cover="C" pic="drwho/13/Doctor Who 02 - Stott.jpg" coverartist="Rachael Stott" need="1"/>
+        <issue num="2" cover="Gallifreyan High Council" pic="drwho/13/Doctor Who 02 - Stott - Gallifreyan High Council.jpg" coverartist="Rachel Stott" need="1"/>
+      </group>
+      <group pubdate="December 19, 2018">
+        <issue num="3" cover="A" pic="drwho/13/Doctor Who 03 - Isaacs.jpg" coverartist="Rebekah Isaacs" need="1"/>
+        <issue num="3" cover="B" pic="drwho/13/Doctor Who 03 - Brooks.jpg" coverartist="Will Brooks" need="1"/>
+        <issue num="3" cover="C" pic="drwho/13/Doctor Who 03 - Stott.jpg" coverartist="Rachael Stott" need="1"/>
+        <issue num="3" cover="Gallifreyan High Council" pic="drwho/13/Doctor Who 03 - Isaacs - Gallifreyan High Council.jpg" coverartist="Rebekah Isaacs" need="1"/>
+      </group>
+      <group pubdate="January 30, 2019">
+        <issue num="4" cover="A" pic="drwho/13/Doctor Who 04 - Zanfardino.jpg" coverartist="Iolanda Zanfardino" need="1"/>
+        <issue num="4" cover="B" pic="drwho/13/Doctor Who 04 - Brooks.jpg" coverartist="Will Brooks" need="1"/>
+        <issue num="4" cover="C" pic="drwho/13/Doctor Who 04 - Stott.jpg" coverartist="Rachael Stott" need="1"/>
+        <issue num="4" cover="Gallifreyan High Council" pic="drwho/13/Doctor Who 04 - Zanfardino - Gallifreyan High Council.jpg" coverartist="Iolanda Zanfardino" need="1"/>
+      </group>
+      <group pubdate="February 27, 2019">
+        <issue num="5" cover="A" pic="drwho/13/Doctor Who 05 - Isaacs.jpg" coverartist="Rebekah Isaacs" coverartist2="Dan Jackson"/>
+        <issue num="5" cover="B photo" pic="drwho/13/Doctor Who 05 - photo.jpg" need="1"/>
+        <issue num="5" cover="C" pic="drwho/13/Doctor Who 05 - Iannicello.jpg" coverartist="Claudia SG Iannicello" need="1"/>
+        <issue num="5" cover="D blank" pic="drwho/13/Doctor Who 05 - blank.jpg" need="1"/>
+      </group>
+      <group pubdate="March 27, 2019">
+        <issue num="6" cover="A" pic="drwho/13/Doctor Who 06 - Sposito.jpg" coverartist="Giorgia Sposito"/>
+        <issue num="6" cover="B photo" pic="drwho/13/Doctor Who 06 - photo.jpg" need="1"/>
+        <issue num="6" cover="C" pic="drwho/13/Doctor Who 06 - Zanfardino.jpg" coverartist="Iolanda Zanfardino" need="1"/>
+<!--        <issue num="4" cover="Gallifreyan High Council" pic="drwho/13/Doctor Who 04 - Zanfardino - Gallifreyan High Council.jpg" coverartist="Iolanda Zanfardino" need="1"/>-->
+      </group>
+      <group pubdate="April 24, 2019">
+        <issue num="7" cover="A" pic="drwho/13/Doctor Who 07 - Anwar.jpg" coverartist="Sanya Anwar"/>
+        <issue num="7" cover="B photo" pic="drwho/13/Doctor Who 07 - photo.jpg" need="1"/>
+        <issue num="7" cover="C" pic="drwho/13/Doctor Who 07 - Smith.jpg" coverartist="Rachael Smith" need="1"/>
+      </group>
+      <group pubdate="May 22, 2019">
+        <issue num="8" cover="A" pic="drwho/13/Doctor Who 08 - Sposito.jpg" coverartist="Giorgia Sposito" need="1"/>
+        <issue num="8" cover="B photo" pic="drwho/13/Doctor Who 08 - photo.jpg" need="1"/>
+        <issue num="8" cover="C" pic="drwho/13/Doctor Who 08 - Jones.jpg" coverartist="Christopher Jones" need="1"/>
+      </group>
+      <group pubdate="June 19, 2019">
+        <issue num="9" cover="A" pic="drwho/13/Doctor Who 09 - Fish.jpg" coverartist="Veronica Fish" need="1"/>
+        <issue num="9" cover="B photo" pic="drwho/13/Doctor Who 09 - photo.jpg" need="1"/>
+        <issue num="9" cover="C" pic="drwho/13/Doctor Who 09 - 9th.jpg" coverartist="" need="1"/>
+        <issue num="9" cover="" pic="drwho/13/Doctor Who 09 - Kleb - SDCC.jpg" coverartist="Klebs" exclusive="San Diego Comic Con"/>
+      </group>
+      <group pubdate="July 17, 2019">
+        <issue num="10" cover="A" pic="drwho/13/Doctor Who 10 - Sposito.jpg" coverartist="Giorgia Sposito"/>
+        <issue num="10" cover="B photo" pic="drwho/13/Doctor Who 10 - photo.jpg" need="1"/>
+        <issue num="10" cover="C" pic="drwho/13/Doctor Who 10 - 10th.jpg" coverartist="" need="1"/>
+      </group>
+      <group pubdate="August 14, 2019">
+        <issue num="11" cover="A" pic="drwho/13/Doctor Who 11 - Templer.jpg" coverartist="Hannah Templer"/>
+        <issue num="11" cover="B photo" pic="drwho/13/Doctor Who 11 - photo.jpg" need="1"/>
+        <issue num="11" cover="C" pic="drwho/13/Doctor Who 11 - 11th.jpg" coverartist="" need="1"/>
+      </group>
+      <group pubdate="September 11, 2019">
+        <issue num="12" cover="A" pic="drwho/13/Doctor Who 12 - Fish.jpg" coverartist="Veronica Fish" need="1"/>
+        <issue num="12" cover="B photo" pic="drwho/13/Doctor Who 12 - photo.jpg" need="1"/>
+        <issue num="12" cover="C" pic="drwho/13/Doctor Who 12 - 12th.jpg" coverartist="" need="1"/>
+      </group>
+    </series>
+
+</collection>

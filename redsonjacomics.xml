@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="comics.xsl"?>
+<collection
+    theme="Red Sonja"
+    company="DYNAMITE"
+    currentPublisher="Dynamite">
+
+    <logos>
+        <height>20</height>
+        <logo id="Dynamite">
+            <img>dynamitecomics.png</img>
+        </logo>
+    </logos>
+
+    <series name="Red Sonja Vol. 2" publisher="Dynamite">
+      <issue num="0" pic="redsonja/Red Sonja v2/RSv200CovHardman.jpg" cover="Hardman"/>
+      <group>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovDoran.jpg" cover="Doran" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovDoranIncenBW.jpg" cover="Doran" desc="BW Incentive"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSv201Cov50Only.jpg" cover="Doran" desc="25 only"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovFrison.jpg" cover="Frison" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSv201Cov2ndPrint.jpg" cover="Frison" desc="2nd printing"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovConner.jpg" cover="Conner" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovSConnerIncenBW.jpg" cover="Conner" desc="BW Incentive"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSv201Cov25Only.jpg" cover="Conner" desc="25 only"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovBuscemaSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovMidtownExclu.jpg" cover="" desc="Midtown Excl."/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovMidtownExcluBW.jpg" cover="" desc="BW Midtown Excl."/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovMidtownExcluVirg.jpg" cover="" desc="Virgin Midtown Excl."/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovMileHighExclu.jpg" cover="" desc="Mile High Comics Excl."/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovPhantomVariantExclu.jpg" cover="" desc="Phantom Excl."/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovScott.jpg" cover="Scott" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovScottIncenRed.jpg" cover="Scott" desc="red Incentive"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/RSV201CovStaples.jpg" cover="Staples" desc=""/>
+      </group>
+      <group>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovFrison.jpg" cover="Frison"/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovIncenBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202Cov50Only.jpg" cover="Frison" desc="50 only"/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovLarryExcluCol.jpg" cover=""/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovLarryExcluBW.jpg" cover="" desc=""/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovLarryExcluVirg.jpg" cover="" desc=""/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovScott.jpg" cover="Scott" desc=""/>
+        <issue num="2" pic="redsonja/Red Sonja v2/RSv202CovIncenRed.jpg" cover="" desc="red Incentive"/>
+      </group>
+      <group>
+        <issue num="3" pic="redsonja/Red Sonja v2/RSv203CovGuerra.jpg" cover="Guerra"/>
+        <issue num="3" pic="redsonja/Red Sonja v2/RSv203CovIncenBWGuerra.jpg" cover="Guerra" desc="BW Incentive"/>
+        <issue num="3" pic="redsonja/Red Sonja v2/RSv203CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="3" pic="redsonja/Red Sonja v2/RSv203CovFrison.jpg" cover="Frison" desc=""/>
+        <issue num="3" pic="redsonja/Red Sonja v2/RSv203CovIncenBWFrison.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="3" pic="redsonja/Red Sonja v2/RSv203Cov50Only.jpg" cover="Frison" desc="50 only"/>
+      </group>
+      <group>
+        <issue num="4" pic="redsonja/Red Sonja v2/RSv204CovDoyle.jpg" cover="Doyle"/>
+        <issue num="4" pic="redsonja/Red Sonja v2/RSv204CovIncenBWDoyle.jpg" cover="Doyle" desc="BW Incentive"/>
+        <issue num="4" pic="redsonja/Red Sonja v2/RSv204CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="4" pic="redsonja/Red Sonja v2/RSv204CovFrison.jpg" cover="Frison" desc=""/>
+        <issue num="4" pic="redsonja/Red Sonja v2/RSv204CovIncenBWFrison.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="4" pic="redsonja/Red Sonja v2/RSv204Cov50Only.jpg" cover="Frison" desc="50 only"/>
+      </group>
+      <group>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205CovFrison.jpg" cover="Frison"/>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205CovIncenBWFrison.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205Cov50only.jpg" cover="Frison" desc="50 only"/>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205CovReorder.jpg" cover="Frison" desc="reorder"/>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205CovCloonan.jpg" cover="Cloonan" desc=""/>
+        <issue num="5" pic="redsonja/Red Sonja v2/RSv205CovIncenBWCloonan.jpg" cover="Cloonan" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206CovFrison.jpg" cover="Frison"/>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206CovIncenBWFrison.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206Cov50Only.jpg" cover="Frison" desc="50 only"/>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206CovReOrder.jpg" cover="Frison" desc="reorder"/>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206CovThompson.jpg" cover="Thompson" desc=""/>
+        <issue num="6" pic="redsonja/Red Sonja v2/RSv206CovIncenBWThompson.jpg" cover="Thompson" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovFrison.jpg" cover="Frison"/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovIncenFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207Cov50Only.jpg" cover="Frison" desc="50 only"/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovReOrder.jpg" cover="Frison" desc="reorder"/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovReeder.jpg" cover="Reeder" desc=""/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovIncenReederBW.jpg" cover="Reeder" desc="BW Incentive"/>
+        <issue num="7" pic="redsonja/Red Sonja v2/RSv207CovLucky7.jpg" cover="Reeder" desc=""/>
+      </group>
+      <group>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208CovFrison.jpg" cover="Frison"/>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208CovIncenFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208Cov50Only.jpg" cover="Frison" desc="50 only"/>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208CovRuffino.jpg" cover="Ruffino" desc=""/>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208CovIncenRuffinoBW.jpg" cover="Ruffino" desc="BW Incentive"/>
+        <issue num="8" pic="redsonja/Red Sonja v2/RSv208CovReOrder.jpg" cover="Ruffino" desc="reorder"/>
+      </group>
+      <group>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209CovFrison.jpg" cover="Frison"/>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209CovIncenBWFrison.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209Cov50Only.jpg" cover="Frison" desc="50 only"/>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209CovReOrder.jpg" cover="Frison" desc="reorder"/>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209CovHans.jpg" cover="Hans" desc=""/>
+        <issue num="9" pic="redsonja/Red Sonja v2/RSv209CovIncenBWHans.jpg" cover="Hans" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210CovFrison.jpg" cover="Frison"/>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210CovIncenBWFrison.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210Cov50OnlyVirg.jpg" cover="Frison" desc="50 only"/>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210CovReOrderRed.jpg" cover="Frison" desc="reorder"/>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210CovSohn.jpg" cover="Sohn" desc=""/>
+        <issue num="10" pic="redsonja/Red Sonja v2/RSv210CovIncenBWSohn.jpg" cover="Sohn" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="11" pic="redsonja/Red Sonja v2/RSv211CovFrison.jpg" cover="Frison"/>
+        <issue num="11" pic="redsonja/Red Sonja v2/RSv211CovIncenLFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="11" pic="redsonja/Red Sonja v2/RSv211CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="11" pic="redsonja/Red Sonja v2/RSv211CovLupacchino.jpg" cover="Lupacchino" desc=""/>
+        <issue num="11" pic="redsonja/Red Sonja v2/RSv211CovIncenLupacchinoBW.jpg" cover="Lupacchino" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="12" pic="redsonja/Red Sonja v2/RSv212CovFrison.jpg" cover="Frison"/>
+        <issue num="12" pic="redsonja/Red Sonja v2/RSv212CovincenFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="12" pic="redsonja/Red Sonja v2/RSv212CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="12" pic="redsonja/Red Sonja v2/RSv212CovChin.jpg" cover="Chin" desc=""/>
+        <issue num="12" pic="redsonja/Red Sonja v2/RSv212CovincenChenBW.jpg" cover="Chin" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="13" pic="redsonja/Red Sonja v2/RSv213CovFrison.jpg" cover="Frison"/>
+        <issue num="13" pic="redsonja/Red Sonja v2/RSv213CovIncenFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="13" pic="redsonja/Red Sonja v2/RSv213CovSubscription.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="13" pic="redsonja/Red Sonja v2/RSv213CovDeLiz.jpg" cover="DeLiz" desc=""/>
+        <issue num="13" pic="redsonja/Red Sonja v2/RSv213CovIncenDeLizBW.jpg" cover="DeLiz" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="14" pic="redsonja/Red Sonja v2/RSv214CovFrison.jpg" cover="Frison"/>
+        <issue num="14" pic="redsonja/Red Sonja v2/RSv214CovIncenFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="14" pic="redsonja/Red Sonja v2/RSv214CovSubscriptBuscema.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="14" pic="redsonja/Red Sonja v2/RSv214CovLiang.jpg" cover="Liang" desc=""/>
+        <issue num="14" pic="redsonja/Red Sonja v2/RSv214CovIncenLiangBW.jpg" cover="Liang" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="15" pic="redsonja/Red Sonja v2/RSv215CovFrison.jpg" cover="Frison"/>
+        <issue num="15" pic="redsonja/Red Sonja v2/RSv215CovIncenFrisonBW.jpg" cover="Frison" desc="BW Incentive"/>
+        <issue num="15" pic="redsonja/Red Sonja v2/RSv215CovSubscriptBuscema.jpg" cover="Buscema" desc="Subscription"/>
+        <issue num="15" pic="redsonja/Red Sonja v2/RSv215CovVieceli.jpg" cover="Vieceli" desc=""/>
+        <issue num="15" pic="redsonja/Red Sonja v2/RSv215CovIncenVieceliBW.jpg" cover="Vieceli" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="16" pic="redsonja/Red Sonja v2/RSv216CovFrison.jpg" cover="Frison"/>
+        <issue num="16" pic="redsonja/Red Sonja v2/RSv216CovStagg.jpg" cover="Stagg" desc=""/>
+        <issue num="16" pic="redsonja/Red Sonja v2/RSv216CovSubscriptBuscema.jpg" cover="Buscema" desc="Subscription"/>
+      </group>
+      <group>
+        <issue num="17" pic="redsonja/Red Sonja v2/RSv217CovAFrison.jpg" cover="Frison"/>
+        <issue num="17" pic="redsonja/Red Sonja v2/RSv217CovBIsaacs.jpg" cover="Isaacs" desc=""/>
+        <issue num="17" pic="redsonja/Red Sonja v2/RSv217CovCSubBuscema.jpg" cover="Buscema" desc="Subscription"/>
+      </group>
+
+<!--
+      <group>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="Subscription"/>
+      </group>
+      <group>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="BW Incentive"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="Subscription"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="BW Incentive"/>
+      </group>
+      <group>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="BW Incentive"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="50 only"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="reorder"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="Subscription"/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc=""/>
+        <issue num="1" pic="redsonja/Red Sonja v2/.jpg" cover="" desc="BW Incentive"/>
+      </group>
+-->
+    </series>
+
+    <series name="Red Sonja Unchained" publisher="Dynamite">
+      <group>
+        <issue num="1" pic="redsonja/Unchained/RSUnchain01 - Rubi.jpg" cover="Rubi"/>
+        <issue num="1" pic="redsonja/Unchained/RSUnchain01 - Rubi - ChainMail Incentive.jpg" cover="Rubi" desc="Incentive" need="1"/>
+        <issue num="1" pic="redsonja/Unchained/RSUnchain01 - Rubi - 25Only.jpg" cover="Rubi" desc="25 only" need="1"/>
+        <issue num="1" pic="redsonja/Unchained/RSUnchain01 - Geovani - Subscription.jpg" cover="Geovani" desc="Subscription"/>
+      </group>
+      <group>
+        <issue num="2" pic="redsonja/Unchained/RSUnchain02 - Rubi.jpg" cover="Rubi"/>
+        <issue num="2" pic="redsonja/Unchained/RSUnchain02 - Rubi - Bikini Incentive.jpg" cover="Rubi" desc="Incentive" need="1"/>
+        <issue num="2" pic="redsonja/Unchained/RSUnchain02 - Rubi - 25Only.jpg" cover="Rubi" desc="25 only" need="1"/>
+        <issue num="2" pic="redsonja/Unchained/RSUnchain02 - Geovani - Subscription.jpg" cover="Geovani" desc="Subscription"/>
+      </group>
+      <group>
+        <issue num="3" pic="redsonja/Unchained/RSUnchain03 - Rubi.jpg" cover="Rubi"/>
+        <issue num="3" pic="redsonja/Unchained/RSUnchain03 - Rubi - ChainMail Incentive.jpg" cover="Rubi" desc="Incentive" need="1"/>
+        <issue num="3" pic="redsonja/Unchained/RSUnchain03 - Rubi - 25Only.jpg" cover="Rubi" desc="25 only" need="1"/>
+        <issue num="3" pic="redsonja/Unchained/RSUnchain03 - Geovani - Subscription.jpg" cover="Geovani" desc="Subscription"/>
+      </group>
+      <group>
+        <issue num="4" pic="redsonja/Unchained/RSUnchain04 - Rubi.jpg" cover="Rubi"/>
+        <issue num="4" pic="redsonja/Unchained/RSUnchain04 - Rubi - ChainMail Incentive.jpg" cover="Rubi" desc="Incentive" need="1"/>
+        <issue num="4" pic="redsonja/Unchained/RSUnchain04 - Rubi - 25Only.jpg" cover="Rubi" desc="25 only" need="1"/>
+        <issue num="4" pic="redsonja/Unchained/RSUnchain04 - Geovani - Subscription.jpg" cover="Geovani" desc="Subscription"/>
+      </group>
+    </series>
+
+    <series name="Red Sonja - She-Devil with a Sword" publisher="Dynamite">
+        <issue num="0" pic="redsonja/She-Devil with a Sword/0.jpg" desc="" need="1"/>
+        <issue num="1" pic="redsonja/She-Devil with a Sword/1.jpg" desc="" need="1"/>
+        <issue num="2" pic="redsonja/She-Devil with a Sword/2.jpg" desc="" need="1"/>
+        <issue num="3" pic="redsonja/She-Devil with a Sword/3.jpg" desc="" need="1"/>
+        <issue num="4" pic="redsonja/She-Devil with a Sword/4.jpg" desc="" need="1"/>
+        <issue num="5" pic="redsonja/She-Devil with a Sword/5.jpg" desc="" need="1"/>
+        <issue num="6" pic="redsonja/She-Devil with a Sword/6.jpg" desc="" need="1"/>
+        <issue num="7" pic="redsonja/She-Devil with a Sword/7.jpg" desc="" need="1"/>
+        <issue num="8" pic="redsonja/She-Devil with a Sword/8.jpg" desc="" need="1"/>
+        <issue num="9" pic="redsonja/She-Devil with a Sword/9.jpg" desc="" need="1"/>
+        <issue num="10" pic="redsonja/She-Devil with a Sword/10.jpg" desc="" need="1"/>
+        <issue num="11" pic="redsonja/She-Devil with a Sword/11.jpg" desc="" need="1"/>
+        <issue num="12" pic="redsonja/She-Devil with a Sword/12.jpg" desc="" need="1"/>
+        <issue num="13" pic="redsonja/She-Devil with a Sword/13.jpg" desc="" need="1"/>
+        <issue num="14" pic="redsonja/She-Devil with a Sword/14.jpg" desc="" need="1"/>
+        <issue num="15" pic="redsonja/She-Devil with a Sword/15.jpg" desc="" need="1"/>
+        <issue num="16" pic="redsonja/She-Devil with a Sword/16.jpg" desc="" need="1"/>
+        <issue num="17" pic="redsonja/She-Devil with a Sword/17.jpg" desc="" need="1"/>
+        <issue num="18" pic="redsonja/She-Devil with a Sword/18.jpg" desc="" need="1"/>
+        <issue num="19" pic="redsonja/She-Devil with a Sword/19.jpg" desc="" need="1"/>
+        <issue num="20" pic="redsonja/She-Devil with a Sword/20.jpg" desc="" need="1"/>
+        <issue num="21" pic="redsonja/She-Devil with a Sword/21.jpg" desc="" need="1"/>
+        <issue num="22" pic="redsonja/She-Devil with a Sword/22.jpg" desc="" need="1"/>
+        <issue num="23" pic="redsonja/She-Devil with a Sword/23D.jpg" desc="D" need="1"/>
+        <issue num="24" pic="redsonja/She-Devil with a Sword/24.jpg" desc="" need="1"/>
+        <issue num="25" pic="redsonja/She-Devil with a Sword/25.jpg" desc="" need="1"/>
+        <issue num="26" pic="redsonja/She-Devil with a Sword/26.jpg" desc="" need="1"/>
+        <issue num="27" pic="redsonja/She-Devil with a Sword/27.jpg" desc="" need="1"/>
+        <issue num="28" pic="redsonja/She-Devil with a Sword/28.jpg" desc="" need="1"/>
+        <issue num="29" pic="redsonja/She-Devil with a Sword/29.jpg" desc="" need="1"/>
+        <issue num="30" pic="redsonja/She-Devil with a Sword/30.jpg" desc="" need="1"/>
+        <issue num="31" pic="redsonja/She-Devil with a Sword/31.jpg" desc="" need="1"/>
+        <issue num="32" pic="redsonja/She-Devil with a Sword/32.jpg" desc="" need="1"/>
+        <issue num="33" pic="redsonja/She-Devil with a Sword/33.jpg" desc="" need="1"/>
+        <issue num="34" pic="redsonja/She-Devil with a Sword/34.jpg" desc="" need="1"/>
+        <issue num="35" pic="redsonja/She-Devil with a Sword/35.jpg" desc="" need="1"/>
+        <issue num="36" pic="redsonja/She-Devil with a Sword/36.jpg" desc="" need="1"/>
+        <issue num="37" pic="redsonja/She-Devil with a Sword/37.jpg" desc="" need="1"/>
+        <issue num="38" pic="redsonja/She-Devil with a Sword/38.jpg" desc="" need="1"/>
+        <issue num="39" pic="redsonja/She-Devil with a Sword/39.jpg" desc="" need="1"/>
+        <issue num="40" pic="redsonja/She-Devil with a Sword/40.jpg" desc="" need="1"/>
+        <issue num="41" pic="redsonja/She-Devil with a Sword/41.jpg" desc="" need="1"/>
+        <issue num="42" pic="redsonja/She-Devil with a Sword/42.jpg" desc="" need="1"/>
+        <issue num="43" pic="redsonja/She-Devil with a Sword/43.jpg" desc="" need="1"/>
+        <issue num="44" pic="redsonja/She-Devil with a Sword/44.jpg" desc="" need="1"/>
+        <issue num="45" pic="redsonja/She-Devil with a Sword/45.jpg" desc="" need="1"/>
+        <issue num="46" pic="redsonja/She-Devil with a Sword/46.jpg" desc="" need="1"/>
+        <issue num="47" pic="redsonja/She-Devil with a Sword/47.jpg" desc="" need="1"/>
+        <issue num="48" pic="redsonja/She-Devil with a Sword/48.jpg" desc="" need="1"/>
+        <issue num="49" pic="redsonja/She-Devil with a Sword/49.jpg" desc="" need="1"/>
+        <issue num="50" pic="redsonja/She-Devil with a Sword/50.jpg" desc="" need="1"/>
+        <issue num="51" pic="redsonja/She-Devil with a Sword/51.jpg" desc="" need="1"/>
+        <issue num="52" pic="redsonja/She-Devil with a Sword/52.jpg" desc="" need="1"/>
+        <issue num="53" pic="redsonja/She-Devil with a Sword/53.jpg" desc="" need="1"/>
+        <issue num="54" pic="redsonja/She-Devil with a Sword/54.jpg" desc="" need="1"/>
+        <issue num="55" pic="redsonja/She-Devil with a Sword/55.jpg" desc="" need="1"/>
+        <issue num="56" pic="redsonja/She-Devil with a Sword/56.jpg" desc="" need="1"/>
+        <issue num="57" pic="redsonja/She-Devil with a Sword/57.jpg" desc="" need="1"/>
+        <issue num="58" pic="redsonja/She-Devil with a Sword/58.jpg" desc="" need="1"/>
+        <issue num="59" pic="redsonja/She-Devil with a Sword/59.jpg" desc="" need="1"/>
+    </series>
+</collection>

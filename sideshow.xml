@@ -1,0 +1,843 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="sideshow.xsl"?>
+<collection
+    company="Sideshow Collectibles"
+    logo="sideshow_collectibles.png"
+    link="http://www.sideshowtoy.com/brands/star-wars/">
+  <genre title="Star Wars">
+    <format kind="Doll" scale="1/6">
+      <series name="Bounty Hunters">
+        <item have="0" want="1" status="ordered">
+          <name>4-LOM</name>
+        </item>
+        <item have="0" want="1" status="announced">
+          <name>Aurra Sing</name>
+        </item>
+        <item have="1" price="175">
+          <name>Boba Fett: Empire Strikes Back</name>
+        </item>
+        <item have="1" price="160">
+          <name>Bossk</name>
+        </item>
+        <item have="0" want="1" price="150">
+          <name>Cad Bane in Denal disguise</name>
+        </item>
+        <item have="0" want="1" status="ordered">
+          <name>Dengar</name>
+        </item>
+        <item have="1" price="175">
+          <name>IG-88</name>
+        </item>
+        <item have="1" price="220">
+          <name>Jango Fett</name>
+        </item>
+        <item have="0" want="1" price="225" status="ordered">
+          <name>Zuckuss</name>
+        </item>
+      </series>
+
+      <series name="Heroes of the Rebellion">
+        <item have="1" want="0" price="230">
+          <name>C-3PO</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Han Solo: Bespin</name>
+        </item>
+        <item have="1" want="0" price="200">
+          <name>Han Solo: Hoth (brown coat)</name>
+        </item>
+        <item have="0" want="0" price="200">
+          <name>Han Solo: Hoth (blue coat)</name>
+        </item>
+        <item have="1" want="0" price="65">
+          <name>Han Solo: Smuggler: Tatooine</name>
+        </item>
+        <item have="1" want="0" price="100" exclusiveto="San Diego Comic Convention 2009" multipack="2">
+          <name>Han Solo: Stormtrooper disguise</name>
+        </item>
+        <item have="1" want="0" price="200">
+          <name>Han Solo: in carbonite</name>
+        </item>
+        <item have="1" want="0" price="80">
+          <name>Lando Calrissian</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Luke: Bespin</name>
+        </item>
+        <item have="1" want="0" price="200">
+          <name>Luke: Hoth</name>
+        </item>
+        <item have="1" want="0" price="240">
+          <name>Luke: Red Five X-Wing Pilot</name>
+        </item>
+        <item have="0" want="1" price="270" status="ordered">
+            <name>Luke: Rogue Group Snowspeeder Pilot</name>
+        </item>
+        <item have="1" want="0" price="70">
+          <name>Luke: Tatooine</name>
+        </item>
+        <item have="1" want="0" price="60" exclusiveto="Star Wars Celebration IV 2007" produced="6000">
+          <name>Luke: Yavin</name>
+        </item>
+        <item have="1" want="0" price="100" exclusiveto="San Diego Comic Convention 2009" multipack="2">
+          <name>Luke: Stormtrooper disguise</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Obi-Wan Kenobi: Episode IV</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Princess Leia</name>
+        </item>
+        <item have="1" want="0" price="150">
+          <name>R2-D2</name>
+        </item>
+      </series>
+
+      <series name="Lords of the Sith">
+        <item have="1" want="0" price="60" multipack="1">
+          <name>Chancelor Palpatine</name>
+        </item>
+        <item have="0" want="1" price="" status="announced">
+          <name>Count Dooku</name>
+        </item>
+        <item have="1" price="185">
+          <name>Darth Malgus</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Darth Maul</name>
+        </item>
+        <item have="1" price="240">
+          <name>Darth Maul: Duel on Nabroo</name>
+        </item>
+        <item have="0" want="1" price="" status="announced">
+          <name>Darth Maul (mechanical legs)</name>
+        </item>
+        <item have="1" want="0" price="60" multipack="1">
+          <name>Darth Sidious</name>
+        </item>
+        <item have="1" want="0" price="45" exclusiveto="San Diego Comic Convention 2007" produced="6000">
+          <name>Darth Sidious: Hologram</name>
+        </item>
+        <item have="0" want="1" price="" status="announced">
+          <name>Darth Talon</name>
+        </item>
+        <item have="1" want="0" price="60" exclusiveto="San Diego Comic Convention 2006" produced="6000">
+          <name>Darth Vader: Sith Apprentice</name>
+        </item>
+        <item have="1" want="0" price="125">
+          <name>Darth Vader: A New Hope</name>
+        </item>
+        <item have="1" price="250">
+          <name>Darth Vader: Return of the Jedi</name>
+        </item>
+        <item have="1" want="0" price="95">
+          <name>Emperor Palpatine</name>
+        </item>
+      </series>
+
+      <series name="Military">        <item have="1" want="0" price="90">
+          <name>41<sup>st</sup> Elite Corps: Coruscant Clone Trooper</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>212<sup>th</sup> Attack Battalion: Utapau Clone Trooper</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>442<sup>nd</sup> Siege Batallion Clone Trooper</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>501<sup>st</sup> Legion: Vader&apos;s Fist Clone Trooper</name>
+        </item>
+        <item have="1" want="0" price="70">
+          <name>Admiral Piett</name>
+        </item>
+        <item have="1" want="0" price="150">
+          <name>Arc Clone Trooper: Echo</name>
+        </item>
+        <item have="0" want="1" price="150">
+          <name>Arc Clone Trooper: Fives</name>
+        </item>
+        <item have="1" price="210">
+          <name>AT-AT Driver</name>
+        </item>
+        <item have="1" want="0" price="120" edition="regular">
+          <name>Battle Droid</name>
+        </item>
+        <item have="1" want="0" price="" multipack="4">
+          <name>Battle Droid</name>
+        </item>
+        <item have="1" want="0" price="100" exclusiveto="Sideshow Retailers">
+          <name>Blackhole Stormtrooper</name>
+        </item>
+        <item have="1" want="0" price="225">
+          <name>Boil and Waxer with Numa</name>
+        </item>
+        <item have="1" want="0" price="150">
+          <name>Bomb Squad Clone Trooper: Ordinace Specialist</name>
+        </item>
+        <item have="1" want="0" price="70">
+          <name>Captain Antilles</name>
+        </item>
+        <item have="1" want="0" price="125">
+          <name>Captain Rex</name>
+        </item>
+        <item have="1" want="0" price="170">
+          <name>Captain Rex: Phase 2</name>
+        </item>
+        <item have="1" want="0" price="135">
+          <name>Commander Bacara</name>
+        </item>
+        <item have="1" want="0" price="125">
+          <name>Commander Bly</name>
+        </item>
+        <item have="1" want="0" price="125">
+          <name>Commander Cody</name>
+        </item>
+        <item have="1" want="0" price="125" exclusiveto="San Diego Comic Convention 2012">
+          <name>Commander Fox</name>
+        </item>
+        <item have="1" want="0" price="125" exclusiveto="Star Wars Celebration VI 2012">
+          <name>Commander Ganch</name>
+        </item>
+        <item have="1" want="0" price="125">
+          <name>Commander Gree</name>
+        </item>
+        <item have="1" want="0" price="135">
+          <name>Commander Neyo</name>
+        </item>
+        <item have="1" want="0" price="95" exclusiveto="San Diego Comic Convention 2011">
+          <name>Clone Commander (yellow)</name>
+        </item>
+        <item have="1" want="0" price="95" exclusiveto="San Diego Comic Convention 2010">
+          <name>Clone Lieutenant (blue)</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Clone Sergeant - Phase 1</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Clone Trooper: Ep2 Phase 1</name>
+        </item>
+        <item have="0" want="0" price="140">
+          <name>Clone Trooper Deluxe: Veteran</name>
+        </item>
+        <item have="0" want="0" price="140">
+          <name>Clone Trooper Deluxe: &quot;Shiny&quot;</name>
+        </item>
+        <item have="0" want="0" price="140">
+          <name>Clone Trooper Deluxe: 212<sup>th</sup></name>
+        </item>
+        <item have="0" want="0" price="140">
+          <name>Clone Trooper Deluxe: 501<sup>st</sup></name>
+        </item>
+        <item have="1" want="0" price="200">
+          <name>Clone Troopers: Echo and Fives</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Commander Praji</name>
+        </item>
+        <item have="1" want="0" price="160">
+          <name>Commander Wolffe</name>
+        </item>
+        <item have="0" want="1" price="" status="rumor">
+          <name>Destroyer Droid</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Endor Soldier (no beard)</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Endor Soldier (white beard)</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Endor Soldier (trench coat)</name>
+        </item>
+        <item have="1" want="0" price="250">
+          <name>General Grievous</name>
+        </item>
+        <item have="1" want="0" price="130">
+          <name>Geonosis Commander Battle Droid &amp; Count Dooku hologram</name>
+        </item>
+        <item have="1" want="0" price="130">
+          <name>Geonosis Infantry Battle Droids</name>
+        </item>
+        <item have="0" want="1" price="" status="rumor">
+          <name>Grand Moff Tarkin</name>
+        </item>
+        <item have="1" want="0" price="250">
+          <name>Imperial Probe Droid</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Imperial Shock Trooper</name>
+        </item>
+        <item have="1" want="0" price="65">
+          <name>OOM-9 Battle Droid Commander</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Rebel Fleet Trooper</name>
+        </item>
+        <item have="1" want="0" price="80">
+          <name>Republic Clone Captain</name>
+        </item>
+        <item have="1" want="0" price="110">
+          <name>Sandtrooper</name>
+        </item>
+        <item have="1" want="0" price="110">
+          <name>Sandtrooper: Squad Leader</name>
+        </item>
+        <item have="1" want="0" price="110" exclusiveto="Sideshow Retailers">
+          <name>Sandtrooper: Corporal</name>
+        </item>
+        <item have="1" want="0" price="135" multipack="3">
+          <name>Sandtrooper: Desert Sands Detachment</name>
+        </item>
+        <item have="1" price="190">
+          <name>Scout Trooper</name>
+        </item>
+        <item have="1" want="0" price="130">
+          <name>Security Battle Droids</name>
+        </item>
+        <item have="1" want="0" price="150">
+          <name>Snowtrooper</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Stormtrooper</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Stormtrooper Commander (The Force Unleashed)</name>
+        </item>
+        <item have="0" want="1" price="" status="rumor">
+          <name>Super Battle Droid</name>
+        </item>
+        <item have="1" want="0" price="200">
+          <name>TIE Fighter Pilot</name>
+        </item>
+        <item have="0" want="1" price="210" status="ordered">
+          <name>TIE Fighter Pilot: Rogue One</name>
+        </item>
+        <item have="1" want="0" price="135">
+          <name>Utapau Airborne Trooper</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Utapau Shadow Trooper</name>
+        </item>
+        <item have="1" want="0" price="140">
+          <name>Wolfpack Clone Trooper: 104<sup>th</sup> Batallion</name>
+        </item>
+
+        <spacer/>
+        <item have="1" want="0" price="300" multipack="3">
+          <name>Dewback</name>
+        </item>
+        <item have="1" price="300">
+          <name>Speederbike</name>
+        </item>
+        <item have="1" want="0" price="175" multipack="4">
+          <name>STAP Vehicle</name>
+        </item>
+        <item have="1" want="0" price="350">
+          <name>Tauntaun</name>
+        </item>
+      </series>
+
+      <series name="Order of the Jedi">
+        <item have="0" want="1" price="" status="announced">
+          <name>Anakin Skywalker: Ep1</name>
+        </item>
+        <item have="0" want="1" price="" status="announced">
+          <name>Anakin Skywalker: Ep2</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Anakin Skywalker: Jedi Knight</name>
+        </item>
+        <item have="1" want="0" price="70" exclusiveto="San Diego Comic Convention 2008">
+          <name>Aayla Secura</name>
+        </item>
+        <item have="1" want="0" price="70">
+          <name>Ki-Adi Mundi</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Kit Fisto: Jedi Knight</name>
+        </item>
+        <item have="1" want="0" price="50">
+          <name>Luke Skywalker: Jedi Knight</name>
+        </item>
+        <item have="1" want="0" price="50">
+          <name>Mace Windu: Jedi Master</name>
+        </item>
+        <item have="1" want="0" price="50">
+          <name>Obi-Wan Kenobi</name>
+        </item>
+        <item have="1" want="0" price="70">
+          <name>Obi-Wan Kenobi: Jedi Knight</name>
+        </item>
+       <item have="1" want="0" price="150">
+          <name>Obi-Wan Kenobi: Padawan</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Plo Koon</name>
+        </item>
+        <item have="1" want="0" price="50">
+          <name>Qui-Gon Jinn</name>
+        </item>
+        <item have="1" want="0" price="75">
+          <name>Yoda: Jedi Mentor</name>
+        </item>
+        <item have="1" want="0" price="100">
+          <name>Yoda: Jedi Master</name>
+        </item>
+      </series>
+
+      <series name="Scum and Villainy">
+        <item have="1" want="0" price="55">
+          <name>Bib Fortuna</name>
+        </item>
+        <item have="1" want="0" price="120">
+          <name>Gamorrean Guard</name>
+        </item>
+        <item have="1" want="0" price="120">
+          <name>Gamorrean Guard &quot;Gartogg&quot;</name>
+        </item>
+        <item have="1" want="0" price="95">
+          <name>Greedo</name>
+        </item>
+        <item have="1" want="0" price="125">
+          <name>Momaw Nadon &quot;Hammerhead&quot;</name>
+        </item>
+        <item have="1" want="0" price="120">
+          <name>Jabba the Hutt</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Princess Leia in Boushh disguise</name>
+        </item>
+        <item have="1" want="0" price="30">
+          <name>Salacious Crumb</name>
+        </item>
+        <item have="1" want="0" price="135">
+          <name>Tusken Raider</name>
+        </item>
+      </series>
+
+      <series name="Extras and Ancillaries">
+        <item have="1" want="0" price="100">
+          <name>Figrin D&apos;an</name>
+        </item>
+        <item have="1" want="0" price="220">
+          <name>Jawas</name>
+        </item>
+        <item have="1" want="0" price="140">
+          <name>R2-Q5</name>
+        </item>
+        <item have="1" want="0" price="140">
+          <name>R5-D4</name>
+        </item>
+        <item have="1" want="0" price="140">
+          <name>R5-J2</name>
+        </item>
+        <item have="1" want="0" price="160" exclusiveto="San Diego Comic Convention 2012">
+          <name>Tech Mo&apos;r &amp; Doikk Na&apos;ts - Modal Nodes</name>
+        </item>
+        <item have="1" want="0" price="150">
+          <name>Tedn D&apos;hai &amp; Nalan Cheel Bith Band - Modal Nodes</name>
+        </item>
+        <item have="0" want="1" price="" status="rumor">
+          <name>other Modal Nodes</name>
+        </item>
+        <item have="0" want="1" price="" status="announced">
+          <name>Kal&apos;Falnl C&apos;ndros</name>
+        </item>
+        <item have="0" want="1" price="" status="announced">
+          <name>Max Rebo band</name>
+        </item>
+      </series>
+
+      <series name="Expanded Universe">
+        <item have="0" want="1" price="" status="rumor">
+          <name>Ahsoka Tano</name>
+        </item>
+        <item have="1" want="0" price="100">
+          <name>Anakin Skywalker - Clone Wars</name>
+        </item>
+        <item have="1" want="0" price="60">
+          <name>Asajj Ventress</name>
+        </item>
+        <item have="1" want="0" price="180">
+          <name>Boba Fett (Prototype Armor)</name>
+        </item>
+        <item have="1" want="0" price="225">
+          <name>Grand Admiral Thrawn</name>
+        </item>
+        <item have="1" want="0" price="75">
+          <name>Holiday Yoda</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Obi-Wan Kenobi: General - Clone Wars</name>
+        </item>
+        <item have="1" want="0" price="55">
+          <name>Padme: Ilum</name>
+        </item>
+      </series>
+
+      <series name="Expansion Packs">
+        <item have="1" want="0" price="40">
+          <name>Buboicullaar Creature pack</name>
+        </item>
+        <item have="1" want="0" price="50">
+          <name>Dejarik table</name>
+        </item>
+        <item have="1" want="0" price="140">
+          <name>Imperial Throne</name>
+        </item>
+        <item have="1" want="0" price="140">
+          <name>Jabba&apos;s Palace Environment: Archway</name>
+        </item>
+        <item have="1" want="0" price="200">
+          <name>Jabba&apos;s Throne Room</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Mos Eisley Cantina</name>
+        </item>
+        <item have="1" want="0" price="90">
+          <name>Mos Eisley Cantina - Nadon&apos;s Nook</name>
+        </item>
+        <item have="1" want="0" price="250">
+          <name>Mos Eisley: Chalmun&apos;s Cantina</name>
+        </item>
+        <item have="1" want="0" price="25">
+          <name>Sith Probe droids</name>
+        </item>
+        <item have="1" want="0" price="275">
+          <name>Yoda&apos;s Hut - Dagobah</name>
+        </item>
+        <item have="1" want="0" price="150">
+          <name>E-Web Heavy Repeating Blaster</name>
+        </item>
+      </series>
+    </format>
+
+    <format kind="Premium Format">
+      <item have="0" want="0" price="350">
+        <name>Aayla Secura</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Anakin Skywalker</name>
+      </item>
+      <item have="0" want="0" price="250">
+        <name>Asajj Ventress</name>
+      </item>
+      <item have="0" want="1" price="300">
+        <name>Aurra Sing</name>
+      </item>
+      <item have="0" want="0" price="325">
+        <name>Boba Fett</name>
+      </item>
+      <item have="0" want="0" price="750">
+        <name>C-3PO &amp; R2-D2</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Captain Rex</name>
+      </item>
+      <item have="0" want="0" price="385">
+        <name>Chewbacca</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Count Dooku</name>
+      </item>
+      <item have="0" want="0" price="335">
+        <name>Darth Maul: Cyborg</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Luke: Dagobah &amp; Yoda</name>
+      </item>
+      <item have="0" want="0" price="375">
+        <name>Darth Malgus</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Darth Maul</name>
+      </item>
+      <item have="0" want="0" price="290">
+        <name>Darth Talon</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Darth Vader</name>
+      </item>
+      <item have="0" want="0" price="500">
+        <name>Emperor Palpatine</name>
+      </item>
+      <item have="0" want="0" price="450">
+        <name>General Grievous</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Grand Moff Tarkin</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Han Solo</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Han Solo in Carbonite</name>
+      </item>
+      <item have="0" want="0" price="275">
+        <name>Luke Skywalker</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Luke &amp; Yoda: Dagobah Training</name>
+      </item>
+      <item have="0" want="0" price="290">
+        <name>Luke Skywalker - Jedi Knight</name>
+      </item>
+      <item have="0" want="0" price="275">
+        <name>Obi-Wan Kenobi</name>
+      </item>
+      <item have="0" want="0" price="275">
+        <name>Princess Leia</name>
+      </item>
+      <item have="0" want="1" price="280">
+        <name>Princess Leia: Slave</name>
+      </item>
+      <item have="0" want="0" price="800">
+        <name>Scout Trooper w/ Speederbike</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Scout Trooper</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Shaak Ti</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Snowtrooper</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Stormtrooper</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Tusken Raider</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Yoda &amp; Clone Trooper</name>
+      </item>
+    </format>
+
+    <format kind="Busts">
+      <item have="0" want="0">
+        <name>501<sup>st</sup> Legion: Clone Trooper</name>
+      </item>
+      <item have="0" want="0">
+        <name>Admiral Ackbar</name>
+      </item>
+      <item have="0" want="0" price="500">
+        <name>Asajj Ventress</name>
+      </item>
+      <item have="0" want="0" price="800">
+        <name>Boba Fett</name>
+      </item>
+      <item have="0" want="0">
+        <name>Bossk</name>
+      </item>
+      <item have="0" want="0">
+        <name>Darth Maul</name>
+      </item>
+      <item have="0" want="0" price="1200">
+        <name>Darth Vader</name>
+      </item>
+      <item have="0" want="0" price="500">
+        <name>Figrin D&apos;an</name>
+      </item>
+      <item have="0" want="0">
+        <name>General Grievous</name>
+      </item>
+      <item have="0" want="0">
+        <name>Greedo</name>
+      </item>
+      <item have="0" want="0" price="800">
+        <name>Jango Fett</name>
+      </item>
+      <item have="0" want="0">
+        <name>Palpatine</name>
+      </item>
+      <item have="0" want="0">
+        <name>Yoda</name>
+      </item>
+    </format>
+
+    <format kind="Diorama 'Versus'">
+      <item have="0" want="0" price="300">
+        <name>Ambush on Hoth</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Anakin vs. Asajj</name>
+      </item>
+      <item have="0" want="0" price="225">
+        <name>Diplomatic Mission</name>
+      </item>
+      <item have="0" want="0" price="200">
+        <name>Duel with Dooku (Yoda vs. Dooku)</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Duel of the Fates (Qui-Gon &amp; Obi-Wan vs. Maul)</name>
+      </item>
+      <item have="0" want="0" price="250">
+        <name>Fall of the Empire (Ewoks vs. Stormtrooper)</name>
+      </item>
+      <item have="0" want="0" price="280">
+        <name>Obi-Wan vs. Anakin</name>
+      </item>
+      <item have="0" want="0" price="200">
+        <name>Geonosis Arena (Padme vs. Nexu)</name>
+      </item>
+      <item have="0" want="0">
+        <name>Hunt for the Jedi (SHaak Ti vs. General Grievous)</name>
+      </item>
+      <item have="0" want="0" price="300">
+        <name>Revenge of the Jedi (Anakin vs. Tusken Raiders)</name>
+      </item>
+      <item have="0" want="0">
+        <name>There will be no Bargain (Luke vs. the Rancor)</name>
+      </item>
+      <item have="0" want="0" price="230">
+        <name>You&apos;re Going to Regret This (Princess Leia vs. Jabba the Hutt)</name>
+      </item>
+      <item have="0" want="0" price="315">
+        <name>The Circle is Now Complete (Obi-Wan vs. Darth Vader)</name>
+      </item>
+      <item have="0" want="0">
+        <name>Senate Duel (Yoda vs. Darth Sideous)</name>
+      </item>
+      <item have="0" want="0">
+        <name>I am your Father (Luke Skywalker vs. Darth Vader)</name>
+      </item>
+    </format>
+
+    <format kind="Enviorama">
+      <item have="0" want="0" price="70">
+        <name>&quot;Look Sir Droids&quot; (Sandtroopers)</name>
+      </item>
+      <item have="0" want="0" price="80">
+        <name>&quot;This is No Cave&quot; (Space Slug)</name>
+      </item>
+      <item have="0" want="0" price="160">
+        <name>&quot;Sabotage&quot; (Obi-Wan Kenobi)</name>
+      </item>
+    </format>
+
+    <format kind="Mythos">
+      <item have="0" want="0" price="250">
+        <name>Darth Maul &quot;Dark Disciple&quot;</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Ben Kenobi &quot;Desert Nomad&quot;</name>
+      </item>
+      <item have="0" want="0" price="325">
+        <name>Boba Fett</name>
+      </item>
+      <item have="0" want="0" price="350">
+        <name>Darth Vader</name>
+      </item>
+      <item have="0" want="0" status="rumor">
+        <name>Lomrokk</name>
+      </item>
+      <item have="0" want="0" price="325">
+        <name>Gamorrean Executioner</name>
+      </item>
+    </format>
+  </genre>
+
+  <genre title="Indiana Jones">
+    <format kind="Doll" scale="1/6">
+      <item have="1" price="90">
+        <name>Henry Jones</name>
+      </item>
+      <item have="1" price="175">
+        <name>Indiana Jones (Kingdom of the Crystal Skull)</name>
+      </item>
+      <item have="1" price="80">
+        <name>Indiana Jones (Raiders of the Lost Ark)</name>
+      </item>
+      <item have="1" want="0" price="230">
+        <name>Indiana Jones (Temple of Doom)</name>
+      </item>
+      <item have="1" price="90">
+        <name>Indiana Jones in German disguise</name>
+      </item>
+      <item have="1" price="140">
+        <name>Rene Belloq</name>
+      </item>
+      <item have="0" want="1" status="rumor">
+        <name>Short Round</name>
+      </item>
+      <item have="1" price="170">
+        <name>Toht</name>
+      </item>
+    </format>
+
+    <format kind="Environment" scale="1/6">
+      <item have="1" price="200">
+        <name>City of Tanis - Map Room</name>
+      </item>
+    </format>
+
+    <format kind="Premium Format">
+      <item have="0" want="0" price="280">
+        <name>Indiana Jones</name>
+      </item>
+      <item have="0" want="0" price="310">
+        <name>Indiana Jones: Temple of Doom</name>
+      </item>
+      <item have="0" want="0">
+        <name>Mola Ram</name>
+      </item>
+    </format>
+
+    <format kind="Diorama">
+      <item have="0" want="0">
+        <name>Indiana Jones vs. Mola Ram</name>
+      </item>
+    </format>
+  </genre>
+
+  <genre title="Lord of the Rings">
+    <format kind="Doll" scale="1/6">
+      <item have="1" price="65">
+        <name>Aragorn (as Strider the Ranger)</name>
+      </item>
+      <item have="1" price="65">
+        <name>Boromir</name>
+      </item>
+      <item have="1" price="65">
+        <name>Faramir</name>
+      </item>
+      <item have="1" price="70">
+        <name>Frodo Baggins</name>
+      </item>
+      <item have="1" price="90">
+        <name>Gandalf the Grey</name>
+      </item>
+      <item have="1" price="55">
+        <name>Legolas</name>
+      </item>
+      <item have="1" price="70">
+        <name>Samwise Gamgee</name>
+      </item>
+    </format>
+  </genre>
+
+  <genre title="Tomb Raider">
+    <format kind="Doll" scale="1/6">
+      <item have="1" price="80">
+        <name>Lara Croft : Legend</name>
+      </item>
+    </format>
+
+    <format kind="Premium Format">
+      <item have="0" want="1" price="250">
+        <name>Lara Croft : Legend</name>
+      </item>
+      <item have="0" want="1">
+        <name>Lara Croft</name>
+        <artist>Adam Hughes</artist>
+      </item>
+    </format>
+
+    <format kind="Polystone Statue">
+      <item have="0" want="1" price="260">
+        <name>Lara Croft: Snow Day</name>
+      </item>
+    </format>
+  </genre>
+</collection>

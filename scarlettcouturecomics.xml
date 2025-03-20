@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="comics.xsl"?>
+<collection
+    theme="Scarlett Couture Comics"
+    company="Titan"
+    currentPublisher="Titan">
+
+    <logos>
+        <height>20</height>
+        <logo id="Titan">
+            <img>Titan_logo.svg</img>
+        </logo>
+    </logos>
+
+    <series name="Scarlett Couture" publisher="Titan" issue1="April 2015" picfolder="scarlettcouture/">
+      <group num="1" pubdate="April 29, 2015">
+        <issue pic="Scarlett Couture 1a - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+        <issue pic="Scarlett Couture 1 - photo.jpg" cover="photo" model="" need="1"/>
+        <issue pic="Scarlett Couture 1 - Taylor - ComiCave.jpg" coverartist="Des Taylor" exclusive="ComiCave" need="1"/>
+        <issue pic="Scarlett Couture 1 - Taylor - Forbidden Planet.jpg" coverartist="Des Taylor" exclusive="Forbidden Planet" need="1"/>
+      </group>
+      <group num="2" pubdate="May 27, 2015">
+        <issue pic="Scarlett Couture 2a - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+        <issue pic="Scarlett Couture 2b - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+      </group>
+      <group num="3" pubdate="June 24, 2015">
+        <issue pic="Scarlett Couture 3a - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+        <issue pic="Scarlett Couture 3b - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+      </group>
+      <group num="4" pubdate="July 29, 2015">
+        <issue pic="Scarlett Couture 4a - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+        <issue pic="Scarlett Couture 4b - Taylor.jpg" coverartist="Des Taylor" need="1"/>
+      </group>
+        <issue pic="Scarlett Couture HC.jpg" cover="HC" coverartist="Des Taylor" pubdate="January 6, 2016" price="20" need="1"/>
+    </series>
+
+    <series name="Scarlett Couture - The Munich File" publisher="Titan" issue1="August 2023" picfolder="scarlettcouture/">
+      <group num="1" pubdate="August 9, 2023">
+        <issue pic="Scarlett Couture 1 - Panosian.jpg" coverartist="Dan Panosian"/>
+        <issue pic="Scarlett Couture 1 - Panosian - virgin.jpg" cover="virgin" coverartist="Dan Panosian"/>
+        <issue pic="Scarlett Couture 1 - Panosian - foil.jpg" cover="foil" coverartist="Dan Panosian"/>
+        <issue pic="Scarlett Couture 1 - Panosian - SDCC.jpg" cover="SDCC" coverartist="Dan Panosian"/>
+        <issue pic="Scarlett Couture 1 - blank.jpg" cover="blank"/>
+        <issue pic="Scarlett Couture 1 - cosplay.jpg" cover="photo" model="Jordan Gwynn Colton"/>
+        <issue pic="Scarlett Couture 1 - Lashley.jpg" coverartist="Ken Lashley"/>
+        <issue pic="Scarlett Couture 1 - Li.jpg" coverartist="Lesley Lerix Li"/>
+        <issue pic="Scarlett Couture 1 - Li - Stadium Comics - virgin.jpg" cover="virgin" coverartist="Lesley Lerix Li" exclusive="Stadium Comics"/>
+        <issue pic="Scarlett Couture 1 - Taylor.jpg" coverartist="Des Taylor"/>
+        <issue pic="Scarlett Couture 1 - Taylor - SDCC.jpg" cover="SDCC" coverartist="Des Taylor" need="1"/>
+      </group>
+      <group num="2" pubdate="September 13, 2023">
+        <issue pic="Scarlett Couture 2 - Chew.jpg" coverartist="Derrick Chew"/>
+        <issue pic="Scarlett Couture 2 - Chew - virgin.jpg" cover="virgin" coverartist="Derrick Chew"/>
+        <issue pic="Scarlett Couture 2 - cosplay.jpg" cover="photo" model="Jordan Gwynn Colton"/>
+        <issue pic="Scarlett Couture 2 - McCaffrey.jpg" coverartist="Paul McCaffrey"/>
+        <issue pic="Scarlett Couture 2 - Taylor.jpg" coverartist="Des Taylor"/>
+      </group>
+      <group num="3" pubdate="October 11, 2023">
+        <issue pic="Scarlett Couture 3 - Dagnino.jpg" coverartist="Fernando Dagnino"/>
+        <issue pic="Scarlett Couture 3 - cosplay.jpg" cover="photo" model="Jordan Gwynn Colton"/>
+        <issue pic="Scarlett Couture 3 - Taylor.jpg" coverartist="Des Taylor"/>
+      </group>
+      <group num="4" pubdate="November 8, 2023">
+        <issue pic="Scarlett Couture 4 - Caranfa.jpg" coverartist="Claudia Caranfa"/>
+        <issue pic="Scarlett Couture 4 - cosplay.jpg" cover="photo" model="Jordan Gwynn Colton"/>
+        <issue pic="Scarlett Couture 4 - Taylor.jpg" coverartist="Des Taylor"/>
+      </group>
+      <group num="5" pubdate="December 13, 2023">
+        <issue pic="Scarlett Couture 5 - Beroy.jpg" coverartist="Jose Maria Beroy"/>
+        <issue pic="Scarlett Couture 5 - cosplay.jpg" cover="photo" model="Jordan Gwynn Colton"/>
+        <issue pic="Scarlett Couture 5 - Taylor.jpg" coverartist="Des Taylor"/>
+      </group>
+    </series>
+
+</collection>

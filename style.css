@@ -1,0 +1,956 @@
+body {
+  background-color: #555;
+  font-family: 'Work Sans', sans-serif;
+} 
+
+.centered {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.series {
+  font-weight: bold;
+  font-variant: small-caps;
+  margin-top: 0.5em;
+}
+
+.seriesblock {
+  display: none;
+  border-top: 1px black solid;
+  border-right: 1px black solid;
+  border-left: 1px black solid;
+  border-bottom: 2px black solid;
+  padding: 0.25em;
+}
+
+.setname {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+a.nolinkclue {
+  text-decoration: none;
+  color: black;
+  outline: 0;
+}
+
+div.set {
+  padding-top: 0.75em;
+}
+
+.count0 {
+  color: grey;
+}
+
+h3.genretitle {
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+  font-variant: small-caps;
+  font-size: 150%;
+}
+
+h2.title {
+  border: solid 2px black;
+  background-color: steelblue;
+  color: white;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#static-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  box-shadow: 0px 15px 15px #555;
+  z-index: 100;
+}
+
+#comic-content {
+  padding-top: 30px;
+}
+
+div.maintitle {
+  border-top: solid 2px black;
+  border-left: solid 2px black;
+  border-bottom: solid 2px black;
+  background-color: steelblue;
+  color: white;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+  padding-left: 5%;
+  position: fixed;
+  top: 0px;
+  left: 0%;
+  right: 10%;
+  height: 27px;
+  z-index: 100;
+}
+
+span#idx,
+.hand {
+  cursor: pointer;
+}
+
+.artistname,
+.exclname {
+  cursor: pointer;
+  font-size: smaller;
+}
+
+div#idx {
+  cursor: pointer;
+  border-top: solid 2px black;
+  border-right: solid 2px black;
+  border-bottom: solid 2px black;
+  background-color: steelblue;
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  text-align: right;
+  position: fixed;
+  top: 0px;
+  left: 90%;
+  right: 0%;
+  height: 25px;
+  padding-right: 15px;
+  padding-top: 2px;
+  z-index: 100;
+}
+
+div#idxlistfixed {
+  position: fixed;
+  top: 30px;
+  left: 0%;
+  right: 0%;
+  /*height: 73px;*/
+  padding-left: 10px;
+  padding-bottom: 5px;
+/*  column-count: 6;
+  -webkit-column-count: 6; /* Chrome, Safari, Opera */
+*/  -moz-column-count: 6; /* Firefox */
+  z-index: 100;
+  background-color: #E4EFFF;
+  border: 1px solid black;
+}
+
+div#topspacer {
+  height: 15px;
+}
+
+@media only screen and (max-device-width: 480px) {
+  div#idxlistfixed {
+    font-size: 2em;
+    height: 500px;
+/*    column-count: 1;
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+/*    -moz-column-count: 1; /* Firefox */
+    overflow: scroll;
+  }
+}
+
+div.logo {
+  position: fixed;
+  display: inline-block;
+  right: 0px;
+  bottom: 0px;
+}
+
+/*
+div.leftlogo {
+  position: fixed;
+  display: inline-block;
+  left: 3px;
+  bottom: 0px;
+}
+*/
+div.home {
+  margin-right: 5px;
+  margin-left: auto;
+  float: right;
+  display: right;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+div.home a:link {
+  text-decoration: none;
+}
+#homehelp {
+  display: none;
+  background-color: beige;
+  border: silver solid 1px;
+  padding: 2px;
+  font-size: 0.45em;
+  color: #444;
+}
+div.home:hover #homehelp{
+  display: inline;
+}
+
+img#homeicon {
+  margin: -5px -2px -5px -5px;
+  vertical-align: middle;
+}
+
+.rumor {
+  color: #CCC;
+}
+
+.ordered {
+  background-color: lightgreen; /*honeydew;*/
+  display: block;
+  padding-right: 20px;
+}
+
+.incoming {
+  background-color: honeydew;
+}
+
+.exclusive {
+  color: indianred;
+  background-color: lightyellow;
+}
+
+.release {
+  background-color: azure;
+}
+
+.unreleased {
+  color: gainsboro;
+}
+
+.info {
+  background-color: beige;
+}
+
+.small {
+  font-size: 80%;
+}
+
+.notice {
+  border: silver thin solid;
+  padding: 0 0.5em 0;
+  margin-left: 30px;
+  display: inline-block;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+.minifigs {
+  display: inline-block;
+  border: silver thin solid;
+  background-color: #DDFFDD;
+  padding-left: 10px;
+}
+
+.minifigs  ul {
+  padding: 0 15px;
+  margin: 0;
+}
+
+.minifigicon {
+  color: gold;
+}
+
+.float {
+  float: right;
+}
+
+.indent {
+  margin-left: 15px;
+}
+
+.invisible {
+  visibility: hidden;
+}
+
+.hidden {
+  display: none;
+}
+
+.italics {
+  font-style: italic;
+}
+
+.mnubtn {
+  font-weight: bold;
+  border: 2px grey outset;
+  padding: 0.5em;
+  color: black;
+  text-decoration: none;
+}
+
+div#legend {
+  border-top: 3px darkgrey solid;
+}
+
+.lead {
+  padding-left: 20px;
+}
+
+.listing {
+  border-left: 2px darkgrey solid;
+  padding-left: 0.5em;
+}
+
+.rstandoff {
+  padding-right: 0.25em;
+}
+
+.artist {
+  background-color: beige;
+  border: silver thin solid;
+  padding: 0em 0.5em 0;
+  margin-left: 1em;
+}
+
+td.index  {
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  padding: 0px 5px 0px;
+}
+
+th {
+  border-bottom: 3px double black;
+}
+
+.glow {
+  color: goldenrod;
+}
+
+.ldesc {
+  padding-right: 2em;
+}
+
+.ltitle {
+  text-align: center;
+  border-bottom: 1px solid silver;
+  font-size: 1.2em;
+  font-variant: small-caps;
+  font-weight: bold;
+  letter-spacing: 8px;
+}
+
+table#legend {
+  width: 66%;
+  margin-left: 10%;
+  margin-right: 24%;
+  margin-top: 10px;
+  border: 3px solid silver;
+  padding: 3px;
+}
+
+.money {
+  position: relative;
+  font-family: Helvetica,sans-serif;
+  background-color: green;
+  color: lightyellow;
+  padding: 0px 9px;
+  top: -2px;
+  border: 1px solid ivory;
+}
+
+.marginlead {
+  margin-left: 10px;
+}
+
+.halfsize {
+  font-size: 56%;
+}
+
+div.img {
+  margin: 2px;
+  padding: 0px;
+  border: 2px solid black;
+  height: auto;
+  width: auto;
+  float: left;
+  text-align: center;
+}
+
+/*
+div.pre {
+  border: 3px solid lightgrey;
+}
+
+div.need {
+  border: 3px solid red;
+}
+
+div.incomingcomic {
+  border: 3px solid limegreen;
+}
+*/
+
+div.cancelled {
+  color : #A15151;
+}
+
+div.comicinfo {
+  font-family: Sans-Serif;
+  text-align: center;
+  font-weight: normal;
+  font-size: 0.75em;
+  color: white;
+  background-color: black;
+  border-top: 2px solid black;
+  margin-top: 0px;
+  overflow: hidden;
+}
+
+div.fullinfo {
+  position: absolute;
+  top: 18em;
+  height: 1em;
+  width: 130px;
+  overflow: hidden;
+  z-index: 2;
+  opacity: 1;
+  cursor: pointer;
+  border-top: 2px solid black;
+  white-space: nowrap;
+}
+
+div.pre div.comicinfo {
+  background-color: #058;
+}
+
+div.ebay div.comicinfo {
+  background: linear-gradient(
+    to right,
+    #E43137,
+    #E43137 23%,
+    #0063D1 27%,
+    #0063D1 48%,
+    #F4AE01 52%,
+    #F4AE01 73%,
+    #85B716 77%,
+    #85B716
+  );
+}
+
+div.foreign div.comicinfo {
+  background-color: #944;
+}
+
+div.need div.comicinfo {
+  background-color: #900;
+}
+
+div.noneed div.comicinfo {
+  background-color: gray;
+}
+
+div.incomingcomic div.comicinfo {
+  background-color: #080;
+}
+
+div.unknown div.comicinfo {
+  background-color: #A0522D;
+/*  color: gray;*/
+}
+
+div.unconfirmed div.comicinfo {
+  background-color: tan;
+  color: black;
+  font-weight: bold;
+}
+
+div.cancel div.comicinfo {
+  background-color: #444;
+  color: gray;
+}
+
+div.cancel img {
+  opacity: 0.3;
+}
+
+h2.comicheader {
+  font-size: 1.5em;
+  border-bottom: 2px solid #222;
+  text-align: center;
+  color: #DDD;
+  margin-top: 1.5em;
+}
+
+.comictitle {
+  font-variant: small-caps;
+}
+.comicheader .publisher {
+  font-size: 50%;
+  color: #CCC;
+  float: left;
+  padding-left: 1em;
+  margin-top: 1em;
+  width: 10em;
+  text-align: left;
+}
+.comicheader .pubdate {
+  font-size: 50%;
+  color: #CCC;
+  float: right;
+  padding-right: 1em;
+  margin-top: 1em;
+  width: 10em;
+  text-align: right;
+}
+
+/*h3.comictitle {
+  border-bottom: 1px solid black;
+  font-variant: small-caps;
+}*/
+
+span.dim {
+  color: lightgrey;
+}
+
+div.group {
+  display: inline-block;
+  border: 1px grey solid;
+  margin: 3px 1px;
+  padding: 2px;
+}
+
+/*div.group:hover {
+  background-color: #222;
+}*/
+
+div.table {
+  display: table;
+}
+
+div.tablerow {
+  display: table-row;
+}
+
+.cell {
+  display: table-cell;
+  text-align: left;
+}
+
+div.tablerow > .rowhead {
+  text-align: right;
+  padding-right: 10px;
+}
+
+.button {
+  background-color: #888;
+  color: #FFF;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10px;
+  border-top: solid 4px #DDD;
+  border-left: solid 4px #DDD;
+  border-bottom: solid 4px #333;
+  border-right: solid 4px #333;
+  border-collapse: collapse;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  cursor: pointer;
+  margin: 3px;
+  display: inline-block;
+}
+
+.button:active {
+  border-bottom: solid 4px #DDD;
+  border-right: solid 4px #DDD;
+  border-top: solid 4px #333;
+  border-left: solid 4px #333;
+}
+
+.smallbtn {
+  width: 50px;
+  height: 40px;
+  font-size: 12pt;
+}
+
+.bigbtn {
+  width: 100px;
+  height: 80px;
+  font-size: 16pt;
+}
+
+.fleft {
+  float: left;
+}
+
+#collectiondesc {
+  display: inline-block;
+  width: 70%;
+}
+
+.required {
+  background-color: lightyellow;
+}
+
+.noborder {
+  border-style: none;
+  outline: none;
+}
+
+.stripe {
+  background-repeat: repeat-y;
+  background-position: 0px -4px;
+}
+
+.skipsequence {
+  border-top: 1px solid lightgray;
+  padding-top: 3px;
+}
+
+div.wave {
+  display: inline-block;
+  position: relative;
+  left: 15px;
+}
+
+.category {
+  border: 1px solid black;
+  background-color: navy;
+  color: white;
+  padding: 3px 5px;
+}
+
+.comic {
+  width: 130px !important;
+  height: 220px !important;
+}
+
+.comictitle  .publisher {
+  font-size: 80%;
+}
+.comictitle a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.issueheader {
+/*  text-align: center;*/
+/*  background-color: grey;
+  background: linear-gradient(#aaa, #666);*/
+  background-color: #916a08;
+  background: linear-gradient(#aa7c09,#795906); /*(#aaa, #666);*/
+  font-weight: bold;
+  font-size: 80%;
+  margin: -1px -1px 2px;
+  padding: 0px 10px;
+  cursor: default;
+/*
+  border-top: 2px solid darkgrey;
+  border-left: 2px solid darkgrey;
+  border-right: 2px solid dimgrey;
+  border-bottom: 2px solid dimgrey;
+*/
+}
+
+.dark {
+  background-color: #555;
+}
+
+.h18 {
+  height: 18px;
+}
+
+#comic-content {
+  overflow: hidden;
+}
+
+#buttons {
+  position: absolute;
+  bottom: 5px;
+  width: 90%;
+  padding-bottom: 2px;
+}
+
+#idxlist {
+  margin-top: 20px;
+  margin-right: 4px;
+  left: 5px;
+  top: 70px;
+  position: sticky;
+  float: left;
+  min-width: 170px;
+}
+
+.indexbox {
+  background-color: gray;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 80%;
+/*  border-radius: 0px 0px 15px 15px;*/
+  z-index: 200;
+
+/*  
+  margin: 0 50px;
+  height: 5.5em;
+  column-gap: 30px;
+  -moz-column-gap: 30px;
+  -webkit-column-gap: 30px;
+  column-fill: auto;
+  -moz-column-fill: auto;
+  column-rule: 1px solid black;
+  -webkit-column-rule: 1px solid black;
+  -moz-column-rule: 1px solid black;
+*/
+}
+
+.indexbox .current {
+  font-weight: bold;
+/*  font-size: 125%;*/
+}
+
+.indexbox .announced {
+  font-style: italic;
+  color: darkgrey;
+}
+
+.indexbox a:link {
+  text-decoration: none;
+  color: inherit;
+}
+.indexbox a:visited {
+  color: inherit;
+}
+.indexbox a:hover {
+  color: gold;
+  text-decoration: underline;
+}
+.indexbox a.bottomJump:hover {
+  text-decoration: none;
+  cursor: pointer;
+}
+.indextitle {
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 0px 6px 6px;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin: 0.5em -0.5em;
+  padding: 3px 30px 1px 30px;
+  background-color: #999;
+  cursor: pointer;
+}
+.indextitle:hover {
+  border: 1px solid gold;
+}
+.indextitle img {
+/*  height: 20px;*/
+  padding-top: 2px;
+}
+.indextitlesel {
+/*  background-color: steelblue;*/
+  border: 2px solid black;
+  background-color: #AAA;
+}
+.indextitlesel:hover {
+/*  background-color: steelblue;*/
+  border: 2px solid gold;
+}
+.indexgroup {
+  margin-left: 5px;
+  overflow-y: auto;
+}
+
+.indexgroup span.cancelled {
+  text-decoration: line-through;
+}
+
+@media only screen and (max-device-width: 720px) {
+  /*.comic:not(.need) {*/
+  .comic.ownit,
+  .comic.noneed,
+  .comic.cancel,
+  div.inithide {
+    display: none;
+  }
+
+  .issueheader {
+    cursor: pointer;
+  }
+}
+
+.title-jump:target {
+  padding-top: 40px;
+}
+
+.shiftdown {
+  position: relative;
+  top: 0.15em;
+}
+
+anni40badge, giconbadge, grmtbadge {
+  display: block;
+  position: absolute;
+  width: 27px;
+  background-repeat: no-repeat;
+  background-origin: border-box;
+  background-position: 0px 16px;
+  font-size: smaller;
+  font-family: Helvetica;
+  font-variant-numeric: proportional-nums;
+}
+anni40badge {
+  height: 51px;
+  color: white;
+  background-color: black;
+  background-image: url('/images/40thAnniversarySW_25x32.png');
+}
+giconbadge, grmtbadge {
+  height: 17px;
+  color: black;
+  background-color: #e8da2f;
+  border: 1px solid black;
+}
+
+.indexlisttitle {
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+}
+/*
+.indexlist {
+  width: 80%;
+  margin: 0 auto;
+  float: right;
+}
+*/
+#coverartists ol {
+  -webkit-column-count: 4;
+  -moz-column-count: 4;
+  -o-column-count: 4;
+  column-count: 4;
+}
+#exclusives ol {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  -o-column-count: 3;
+  column-count: 3;
+}
+.indexlist ol {
+  -webkit-column-gap: 10px;
+  -moz-column-gap: 10px;
+  -o-column-gap: 10px;
+  column-gap: 10px;
+  list-style-position: inside;
+  counter-reset: items;
+}
+.indexlist ol li {
+  display: block;
+  counter-increment: items;
+}
+.indexlist ol li:before {
+  content: "\2007\2007" counter(items)". ";
+  font-family: monospace;
+}
+.indexlist ol li:nth-child(n+10):before {
+  content: "\2007" counter(items)". ";
+}
+.indexlist ol li:nth-child(n+100):before {
+  content: counter(items)". ";
+}
+
+/* new from Steve */
+#static-header img {
+    height: 40px;
+    padding: 10px 20px;
+    float: left;
+    border-right: 2px solid #916a08; /*#ecac0c;*/
+}
+
+/*
+.sw0 {
+    fill: #fff;
+}
+
+.dark {
+    background-color: #fff;
+}
+*/
+
+#static-header {
+    box-shadow: none;
+    background-color: rgba(0,0,0,.85);
+    height: 60px;
+    border-bottom: 2px solid #916a08; /*#ecac0c;*/
+}
+
+h1 {
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 24px;
+    padding-top: 0px;
+    padding-left: 10px;
+    font-weight: 400;
+}
+
+span.nopic {
+	border: 1px dashed #333;
+	padding: 0px 5px;
+}
+
+div.nopicname {
+	color: #ccc;
+}
+
+.metal {
+  background: linear-gradient(
+    45deg,
+    rgba(143,143,143,0.4) 5%,
+    rgba(255,255,255,0.4) 10%,
+    rgba(191,191,191,0.4) 30%,
+    rgba(223,223,223,0.4) 50%,
+    rgba(191,191,191,0.4) 70%,
+    rgba(255,255,255,0.4) 80%,
+    rgba(143,143,143,0.4) 95%
+  );
+}
+
+/*
+.group.dark {
+    background-color: #fff !important;
+}
+
+div.img {
+    border: 1px solid #999;
+    margin: 4px;
+}
+*/
+
+.title90 {
+    width: 220px;
+    transform: rotate(-0.25turn);
+    transform-origin: 0 0;
+    position: absolute;
+    top: 226px;
+    left: 1px;
+    background-color: black;
+    color: #aa7c09;
+    font-size: 0.75em;
+    text-align: right;
+    padding: 2px 4px 1px 0px;
+}
+
+.issueheader .issuecountpopup {
+    display: none;
+    background-color: lightyellow;
+    color: black;
+    border: 1px solid gold;
+    text-align: center;
+    border-radius: 2px;
+    padding: 0px 4px;
+    font-size: 80%;
+
+    /* Position the tooltip */
+    position: relative;
+    top: -0.5em;
+    left: 1em;
+    z-index: 1;
+}
+
+.issueheader:hover .issuecountpopup {
+    display: inline-block;
+}

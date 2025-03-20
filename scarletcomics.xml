@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="comics.xsl"?>
+<collection
+  theme="Scarlet Comics"
+  company="ICON"
+  currentPublisher="JinxWorld,Marvel">
+
+    <logos>
+        <height>20</height>
+        <logo id="Marvel">
+            <img>Marvel_logo.svg</img>
+        </logo>
+        <logo id="JinxWorld">
+            <img>JinxWorld_logo.svg</img>
+        </logo>
+    </logos>
+
+    <series name="Scarlet" publisher="JinxWorld">
+      <group pubdate="August 29, 2018">
+        <issue num="1" pic="scarlet/jinxworld/1 - Maleev.jpg" coverartist="Alex Maleev"/>
+        <issue num="1" pic="scarlet/jinxworld/1 - Gaydos.jpg" coverartist="Michael Gaydos"/>
+        <issue num="1" cover="blank" pic="scarlet/jinxworld/1 - blank.jpg" coverartist="" need="1"/>
+      </group>
+        <issue num="2" pic="scarlet/jinxworld/2 - Maleev.jpg" coverartist="Alex Maleev" pubdate="September 26, 2018"/>
+        <issue num="3" pic="scarlet/jinxworld/3 - Maleev.jpg" artpic="Y" coverartist="Alex Maleev" pubdate="October 24, 2018"/>
+        <issue num="4" pic="scarlet/jinxworld/4 - Maleev.jpg" artpic="Y" coverartist="Alex Maleev" pubdate="November 28, 2018"/>
+        <issue num="5" pic="scarlet/jinxworld/5 - Maleev.jpg" artpic="Y" coverartist="Alex Maleev" pubdate="January 2, 2019"/>
+    </series>
+
+    <series name="Scarlet" publisher="Marvel">
+      <group>
+        <issue num="1" pic="scarlet/1.jpg" coverartist="Alex Maleev" pubdate="July 8, 2010"/>
+        <issue num="1" pic="scarlet/1 Maleev - 2nd print.jpg" coverartist="Alex Maleev" printing="2" pubdate=""/>
+        <issue num="1" pic="scarlet/1 Deodato.jpg" coverartist="Mike Deodato" pubdate="July 8, 2010"/>
+        <issue num="1" pic="scarlet/1 LaFuente.jpg" coverartist="David LaFuente" pubdate="July 8, 2010"/>
+      </group>
+      <group>
+        <issue num="2" pic="scarlet/2.jpg" coverartist="Alex Maleev" pubdate="September 1, 2010"/>
+        <issue num="2" pic="scarlet/2 Maleev - 2nd print.jpg" coverartist="Alex Maleev" printing="2" pubdate="October 13, 2010"/>
+        <issue num="2" pic="scarlet/2 Mack.jpg" coverartist="David Mack" pubdate="September 1, 2010"/>
+        <issue num="2" pic="scarlet/2 Oeming.jpg" coverartist="Michael Oeming" pubdate="September 1, 2010"/>
+      </group>
+      <group>
+        <issue num="3" pic="scarlet/3.jpg" coverartist="Alex Maleev" pubdate="November 3, 2010"/>
+        <issue num="3" pic="scarlet/3 bw.jpg" coverartist="Alex Maleev" cover="B&amp;W" pubdate="November 3, 2010"/>
+        <issue num="3" pic="scarlet/3 Oeming.jpg" coverartist="Michael Oeming" pubdate="November 3, 2010"/>
+      </group>
+      <group>
+        <issue num="4" pic="scarlet/4.jpg" coverartist="Alex Maleev" pubdate="January 19, 2011"/>
+        <issue num="4" pic="scarlet/4 Maleev.jpg" coverartist="Alex Maleev" pubdate="January 19, 2011" need="1"/>
+        <issue num="4" pic="scarlet/4 Oeming.jpg" coverartist="Michael Oeming" pubdate="January 19, 2011"/>
+      </group>
+      <group>
+        <issue num="5" pic="scarlet/5.jpg" coverartist="Alex Maleev" pubdate="March 30, 2011"/>
+        <issue num="5" pic="scarlet/5 Bendis.jpg" coverartist="Michael Bendis" pubdate="March 30, 2011"/>
+      </group>
+      <group>
+        <issue num="6" pic="scarlet/6.jpg" coverartist="Alex Maleev" pubdate="February 6, 2013"/>
+        <issue num="6" pic="scarlet/6 Mack.jpg" coverartist="David Mack" pubdate="February 6, 2013"/>
+      </group>
+        <issue num="7" pic="scarlet/7.jpg" coverartist="Alex Maleev" pubdate="July 17, 2013"/>
+        <issue num="8" pic="scarlet/8 Maleev.jpg" altpic="scarlet/8 Maleev art.jpg" coverartist="Alex Maleev" pubdate="May 4, 2016"/>
+        <issue num="9" pic="scarlet/9 Maleev.jpg" altpic="scarlet/9 Maleev art.jpg" coverartist="Alex Maleev" pubdate="May 18, 2016"/>
+        <issue num="10" pic="scarlet/10 Maleev.jpg" altpic="scarlet/10 Maleev art.jpg" coverartist="Alex Maleev" pubdate="June 15, 2016"/>
+    </series>
+</collection>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="comics.xsl"?>
+<collection
+    theme="Pop Kill Comics"
+    company="Mad Cave"
+    currentPublisher="Mad Cave">
+<!--
+    <logos>
+        <height>20</height>
+        <logo id="Titan">
+            <img>Titan_logo.svg</img>
+        </logo>
+    </logos>
+-->
+
+    <series name="Pop Kill 2020" publisher="Mad Cave" issue1="August 2020" picfolder="popkill/2020/">
+      <group num="1" pubdate="August 2020">
+        <issue pic="Pop Kill 1a - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 1b - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 1c - Conner.jpg" coverartist="Amanda Conner" price="" need="1"/>
+        <issue pic="Pop Kill 1d - blank.jpg" cover="blank" price="" need="1"/>
+        <issue pic="Pop Kill 1se - Hughes.jpg" coverartist="Adam Hughes" limited="1000" pubdate="August 2022" price="" need="1"/>
+      </group>
+      <group num="2" pubdate="November 2020">
+        <issue pic="Pop Kill 2a - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 2b - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue nopic="Y" pic="Pop Kill 2c - Conner.jpg" coverartist="Amanda Conner" price="" need="1"/>
+      </group>
+      <group num="3" pubdate="December 2020">
+        <issue pic="Pop Kill 3a - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 3b - Sienkiewicz.jpg" coverartist="Bill Sienkiewicz" price="" need="1"/>
+        <issue nopic="Y" pic="Pop Kill 3c - Conner.jpg" coverartist="Amanda Conner" price="" need="1"/>
+      </group>
+      <group num="4" pubdate="January 2021">
+        <issue pic="Pop Kill 4a - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 4b - Hughes.jpg" coverartist="Adam Hughes" price="" need="1"/>
+        <issue pic="Pop Kill 4c - Conner.jpg" coverartist="Amanda Conner" price="" need="1"/>
+      </group>
+    </series>
+
+    <series name="Pop Kill 2025" publisher="Mad Cave" issue1="February 2025" picfolder="popkill/">
+      <group num="1" pubdate="February 26, 2025">
+        <issue pic="Pop Kill 1 - Johnson.jpg" coverartist="Dave Johnson" price=""/>
+        <issue pic="Pop Kill 1 - Panosian.jpg" coverartist="Dan Panosian" price=""/>
+        <issue pic="Pop Kill 1 - Conner.jpg" coverartist="Amanda Conner" printratio="1:10" price="20"/>
+        <issue pic="Pop Kill 1 - Stelfreeze.jpg" coverartist="Brian Stelfreeze" price=""/>
+        <issue pic="Pop Kill 1 - Jack - A.jpg" coverartist="Will Jack" exclusive="Will Jack Art" limited="600" price="20" need="1" incoming="Y"/>
+        <issue pic="Pop Kill 1 - Jack - B.jpg" coverartist="Will Jack" exclusive="Will Jack Art" limited="500" price="25" need="1" incoming="ebay"/>
+        <issue pic="Pop Kill 1 - Sozomaika - KRS Comics.jpg" coverartist="Sozomaika" exclusive="KRS Comics" limited="400" price="20" need="1" incoming="Y"/>
+        <issue pic="Pop Kill 1 - Sozomaika - KRS Comics - virgin.jpg" coverartist="Sozomaika" cover="virgin" exclusive="KRS Comics" limited="350" price="20" need="1" incoming="Y"/>
+        <issue pic="Pop Kill 1 - Trophy - A.jpg" coverartist="Tony Trophy" exclusive="Bird City Comics" limited="100" price="20" need="1" incoming="ebay"/>
+        <issue pic="Pop Kill 1 - Trophy - B.jpg" coverartist="Tony Trophy" exclusive="Bird City Comics" limited="50" price="30" need="1" incoming="ebay"/>
+      </group>
+      <group num="2" pubdate="March, 2025">
+        <issue pic="Pop Kill 2 - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 2 - Chiarello.jpg" coverartist="Mark Chiarello" price="" need="1"/>
+      </group>
+      <group num="3" pubdate="April, 2025">
+        <issue pic="Pop Kill 3 - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+        <issue pic="Pop Kill 3 - Hughes.jpg" coverartist="Adam Hughes" price="" need="1"/>
+      </group>
+      <group num="4" pubdate="May, 2025">
+        <issue nopic="Y" pic="Pop Kill 4 - Johnson.jpg" coverartist="Dave Johnson" price="" need="1"/>
+      </group>
+    </series>
+
+</collection>
