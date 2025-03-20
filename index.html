@@ -5,8 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Matt's Comic Universe</title>
     <link rel="stylesheet" href="css/style.css" type="text/css"/>
+    <link rel="stylesheet" href="css/popup.css" type="text/css"/>
     <link rel="icon" type="image/png" href="/images/home.png">
     <link href="https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap" rel="stylesheet">
+     <!-- SweetAlert2 CSS -->
+     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
 </head>
 <body>
     <!-- Header with Animated Title -->
@@ -23,67 +26,67 @@
         <section class="comics-section">
             <h2>Explore the Comics</h2>
             <div class="comics-grid">
-                <div class="comic-card" >
+                <div class="comic-card" data-image="images/logos/starwars.png" data-title="Star Wars">
                     <a href="/cgi-bin/collection.pl?comics=Star Wars" >
                     <img src="images/logos/starwars.png" alt="Star Wars">
                     <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
-                    <a href="indycomics.html">
+                <div class="comic-card" data-image="images/logos/indianajones.png" data-title="Indiana Jones">
+                    <!-- <a href="indycomics.html"> -->
                     <img src="images/logos/indianajones.png" alt="Indiana Jones">
                     <div class="comic-overlay">View</div>
-                    </a>
+                    <!-- </a> -->
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/tombraider.png" data-title="Tomb Raider">
                     <a href="/cgi-bin/collection.pl?comics=Tomb Raider">
                     <img src="images/logos/tombraider.png" alt="Tomb Raider">
                     <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/xfiles.png" data-title="X-Files">
                     <a href="/cgi-bin/collection.pl?comics=XFiles" style="margin-top: -0.35rem;">
                     <img src="images/logos/xfiles.png" alt="X-Files" width="80%" height="100">
                     <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/scarlet.png" data-title="Scarlet">
                     <a href="/cgi-bin/collection.pl?comics=Scarlet">
                     <img src="images/logos/scarlet.png" alt="Scarlet">
                     <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/redsonja.png" data-title="Red Sonja">
                     <a href="/cgi-bin/collection.pl?comics=Red Sonja">
                     <img src="images/logos/redsonja.png" alt="Red Sonja">
                     <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/gunhoney.png" data-title="Gun Honey">
                     <a href="/cgi-bin/collection.pl?comics=Gun Honey">
                     <img src="images/logos/gunhoney.png" alt="Gun Honey">
                     <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/popkill.png" data-title="Pop Kill">
                     <a href="/cgi-bin/collection.pl?comics=Pop Kill">
                         <img src="images/logos/popkill.png" alt="Pop Kill">
                         <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/jenniferblood.png" data-title="Jennifer Blood">
                     <a href="/cgi-bin/collection.pl?comics=Jennifer Blood" >
                     <img src="images/logos/jenniferblood.png" alt="Jennifer Blood">
                         <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card">
+                <div class="comic-card" data-image="images/logos/scarlettcouture.png" data-title="Scarlett Couture">
                     <a href="/cgi-bin/collection.pl?comics=Scarlett Couture">
                         <img src="images/logos/scarlettcouture.png" alt="Scarlett Couture">
                         <div class="comic-overlay">View</div>
                     </a>
                 </div>
-                <div class="comic-card doctor-who">
+                <div class="comic-card doctor-who" data-image="images/logos/Doctor_Who_2018_logo.svg" data-title="Doctor Who">
                     <a href="/cgi-bin/collection.pl?comics=Doctor Who">
                         <img src="images/logos/Doctor_Who_2018_logo.svg" alt="Doctor Who" width="80%" height="100">
                         <div class="comic-overlay">View</div>
@@ -102,7 +105,7 @@
                         <img src="images/logos/topps.png" alt="Topps">
                     </a>
                     <div class="action-links stuff-overlay">
-                        <a href="/cgi-bin/collection.pl?cards=all" class="view-link">View All</a>
+                        <a href="/cgi-bin/collection.pl?cards=all" class="view-link" data-image="images/logos/topps.png" data-title="Topps">View All</a>
                         <a href="/cgi-bin/collection.pl?cards=need" class="want-link">Want</a>
                     </div>
                 </div>
@@ -113,18 +116,18 @@
                         <img src="images/logos/lego.png" alt="LEGO">
                     </a>
                     <div class="action-links stuff-overlay stuff-overlay">
-                        <a href="/cgi-bin/collection.pl?lego=all" class="view-link ">View All</a>
+                        <a href="/cgi-bin/collection.pl?lego=all" class="view-link" data-image="images/logos/lego.png" data-title="LEGO" >View All</a>
                         <a href="/cgi-bin/collection.pl?lego=need" class="want-link">Want</a>
                     </div>
                 </div>
         
                 <!-- Sideshow Collectibles -->
-                <div class="stuff-card">
+                <div class="stuff-card" >
                     <a href="/cgi-bin/collection.pl?sideshow=all" class="image-link">
                         <img src="images/logos/sideshow_collectibles.png" alt="Sideshow Collectibles">
                     </a>
                     <div class="action-links stuff-overlay">
-                        <a href="/cgi-bin/collection.pl?sideshow=all" class="view-link">View All</a>
+                        <a href="/cgi-bin/collection.pl?sideshow=all" class="view-link" data-image="images/logos/sideshow_collectibles.png" data-title="Sideshow Collectibles">View All</a>
                         <a href="/cgi-bin/collection.pl?sideshow=need" class="want-link">Want</a>
                     </div>
                 </div>
@@ -135,7 +138,7 @@
                         <img src="images/logos/hasbro.png" alt="Hasbro">
                     </a>
                     <div class="action-links stuff-overlay">
-                        <a href="/cgi-bin/collection.pl?hasbro=all" class="view-link">View All</a>
+                        <a href="/cgi-bin/collection.pl?hasbro=all" class="view-link" data-image="images/logos/hasbro.png" data-title="Hasbro">View All</a>
                         <a href="/cgi-bin/collection.pl?hasbro=need" class="want-link">Want</a>
                     </div>
                 </div>
@@ -166,5 +169,12 @@
     <footer>
         <p>&copy; 2023 Matt's Comic Universe. All rights reserved.</p>
     </footer>
+
+   <!-- SweetAlert2 JS -->
+   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+   <!-- Custom JS -->
+   <script src="js/main.js"></script>
+
+    
 </body>
 </html>
